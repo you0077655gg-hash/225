@@ -1,0 +1,3824 @@
+{
+ "511001": {
+  "511001010": [
+   "choice",
+   5110010101
+  ],
+  "511001050": [
+   "choice",
+   5110010501
+  ],
+  "511001020": [
+   "description",
+   "print(\"Good morning\")"
+  ],
+  "511001030": [
+   "description",
+   "print(\"programming\")"
+  ],
+  "511001040": [
+   "description",
+   "print(\"hello\")"
+  ],
+  "511001060": [
+   "description",
+   "print(\"Hello\")\nprint(\"My name is\")\n#print(\"Riki\")\nprint(\"Cody\")"
+  ]
+ },
+ "511002": {
+  "511002010": [
+   "choice",
+   5110020101
+  ],
+  "511002020": [
+   "choice",
+   5110020201
+  ],
+  "511002060": [
+   "choice",
+   5110020601
+  ],
+  "511002080": [
+   "choice",
+   5110020801
+  ],
+  "511002090": [
+   "choice",
+   5110020901
+  ],
+  "511002030": [
+   "description",
+   "print(19 + 40)"
+  ],
+  "511002040": [
+   "description",
+   "print(7 - 2)"
+  ],
+  "511002050": [
+   "description",
+   "print(15 / 5)"
+  ],
+  "511002070": [
+   "description",
+   "print(\"The answer is \" + str(2 * 5))"
+  ]
+ },
+ "511003": {
+  "511003010": [
+   "choice",
+   5110030101
+  ],
+  "511003020": [
+   "choice",
+   5110030201
+  ],
+  "511003030": [
+   "description",
+   "number = 0"
+  ],
+  "511003040": [
+   "description",
+   "number = 0\nnumber = 100"
+  ],
+  "511003050": [
+   "description",
+   "number = 0\nnumber = 10\nprint(number)"
+  ],
+  "511003060": [
+   "description",
+   "number = 3\nnumber = number + 10\nprint(number)"
+  ]
+ },
+ "511004": {
+  "511004010": [
+   "choice",
+   5110040101
+  ],
+  "511004040": [
+   "choice",
+   5110040401
+  ],
+  "511004050": [
+   "choice",
+   5110040501
+  ],
+  "511004070": [
+   "choice",
+   5110040701
+  ],
+  "511004020": [
+   "description",
+   "print(\"hello\")"
+  ],
+  "511004030": [
+   "description",
+   "#Leave this text\nprint(\"Make the first line a comment\")"
+  ],
+  "511004060": [
+   "description",
+   "print(\"The answer is \" + str(3 * 4))"
+  ],
+  "511004080": [
+   "description",
+   "num = 5\nprint(num)"
+  ]
+ },
+ "511005": {
+  "511005020": [
+   "choice",
+   5110050201
+  ],
+  "511005030": [
+   "description",
+   "num = 100\nif num == 100:\n    print(\"Correct\")"
+  ],
+  "511005050": [
+   "choice",
+   5110050501
+  ],
+  "511005010": [
+   "choice",
+   5110050101
+  ],
+  "511005040": [
+   "choice",
+   5110050401
+  ]
+ },
+ "511006": {
+  "511006010": [
+   "choice",
+   5110060101
+  ],
+  "511006030": [
+   "choice",
+   5110060301
+  ],
+  "511006040": [
+   "choice",
+   5110060401
+  ],
+  "511006020": [
+   "description",
+   "num = 5\nif num == 10:\n    print(\"Win\")\nelse:\n    print(\"No prize\")"
+  ],
+  "511006050": [
+   "description",
+   "score = 80\nif score >= 60:\n    print(\"Pass\")\nelse:\n    print(\"Fail\")"
+  ]
+ },
+ "511007": {
+  "511007010": [
+   "choice",
+   5110070101
+  ],
+  "511007040": [
+   "choice",
+   5110070401
+  ],
+  "511007020": [
+   "description",
+   "num = 2\nif num == 1:\n    print(\"It's 1\")\nelif num == 2:\n    print(\"It's 2\")"
+  ],
+  "511007030": [
+   "description",
+   "score = 82\nif score == 100:\n    print(\"Perfect score\")\nelif score >= 80:\n    print(\"Pass\")"
+  ],
+  "511007050": [
+   "description",
+   "egg = 5\nif egg == 0:\n    print(\"Out of stock\")\nelif egg <= 3:\n    print(\"Low stock\")\nelse:\n    print(\"In stock\")"
+  ]
+ },
+ "511008": {
+  "511008020": [
+   "choice",
+   5110080201
+  ],
+  "511008040": [
+   "choice",
+   5110080401
+  ],
+  "511008060": [
+   "choice",
+   5110080601
+  ],
+  "511008010": [
+   "description",
+   "num = 7\nif num == 7:\n    print(\"Win\")"
+  ],
+  "511008030": [
+   "description",
+   "score = 70\nif score >= 60:\n    print(\"Pass\")\nelse:\n    print(\"Fail\")"
+  ],
+  "511008050": [
+   "description",
+   "num = 100\nif num == 100:\n    print(\"Win\")\nelse:\n    print(\"No prize\")"
+  ],
+  "511008070": [
+   "description",
+   "num = 4\nif num <= 3:\n    print(\"It's A\")\nelif num >= 6:\n    print(\"It's B\")\nelse:\n    print(\"It's C\")"
+  ]
+ },
+ "511009": {
+  "511009010": [
+   "choice",
+   5110090101
+  ],
+  "511009020": [
+   "choice",
+   5110090201
+  ],
+  "511009030": [
+   "choice",
+   5110090301
+  ],
+  "511009040": [
+   "description",
+   "a = 5\nb = 10\n\nif a == 5 or b == 10:\n    print(\"The condition is met\")"
+  ],
+  "511009050": [
+   "description",
+   "a = 4\nb = 3\nif a >= 2 and b >= 3:\n    print(\"The condition is met\")"
+  ]
+ },
+ "511010": {
+  "511010010": [
+   "choice",
+   5110100101
+  ],
+  "511010020": [
+   "choice",
+   5110100201
+  ],
+  "511010030": [
+   "choice",
+   5110100301
+  ],
+  "511010040": [
+   "description",
+   "for i in range(5):\n    print(\"Hello\")"
+  ],
+  "511010050": [
+   "description",
+   "for i in range(7):\n    print(\"Hello\")"
+  ]
+ },
+ "511011": {
+  "511011010": [
+   "choice",
+   5110110101
+  ],
+  "511011020": [
+   "choice",
+   5110110201
+  ],
+  "511011030": [
+   "choice",
+   5110110301
+  ],
+  "511011040": [
+   "choice",
+   5110110401
+  ],
+  "511011050": [
+   "choice",
+   5110110501
+  ],
+  "511011060": [
+   "description",
+   "for i in range(10):\n    print(\"Good morning\")"
+  ],
+  "511011070": [
+   "description",
+   "a = 4\nb = 3\nif a >= 2 and b >= 3:\n    print(\"the condition is met\")"
+  ],
+  "511011080": [
+   "description",
+   "for i in range(3):\n    print(\"Hello\")"
+  ]
+ },
+ "511012": {
+  "511012010": [
+   "choice",
+   5110120101
+  ],
+  "511012020": [
+   "choice",
+   5110120201
+  ],
+  "511012030": [
+   "choice",
+   5110120301
+  ],
+  "511012040": [
+   "description",
+   "import math\n\nprint(round(5.5))\nprint(math.floor(8.8))"
+  ],
+  "511012050": [
+   "description",
+   "import random\nif random.random() >= 0.5:\n    print(\"A bright day\")\nelse:\n    print(\"Take it slow and do your best\")"
+  ],
+  "511012060": [
+   "description",
+   "print(math.floor(random.random() * 10))"
+  ]
+ },
+ "511013": {
+  "511013010": [
+   "choice",
+   5110130101
+  ],
+  "511013020": [
+   "choice",
+   5110130201
+  ],
+  "511013030": [
+   "choice",
+   5110130301
+  ],
+  "511013040": [
+   "description",
+   "def calc(num):\n    result = num * 5\n    return result\nprint(calc(3))"
+  ],
+  "511013050": [
+   "description",
+   "def calc(num):\n    result = num * 7\n    return result\nprint(calc(10))"
+  ]
+ },
+ "511014": {
+  "511014010": [
+   "choice",
+   5110140101
+  ],
+  "511014020": [
+   "choice",
+   5110140201
+  ],
+  "511014030": [
+   "choice",
+   5110140301
+  ],
+  "511014040": [
+   "choice",
+   5110140401
+  ],
+  "511014060": [
+   "choice",
+   5110140601
+  ],
+  "511014050": [
+   "description",
+   "import math\nimport random\nprint(math.floor(random.random() * 10))"
+  ],
+  "511014070": [
+   "description",
+   "def calc(num):\n    result = num * 7\n    return result\nprint(calc(10))"
+  ],
+  "511014080": [
+   "description",
+   "def calc(num):\n    result = num * 5\n    return result\nprint(calc(3))"
+  ]
+ },
+ "511015": {
+  "511015020": [
+   "choice",
+   5110150201
+  ],
+  "511015040": [
+   "choice",
+   5110150401
+  ],
+  "511015010": [
+   "description",
+   "num = [5, 10, 15]"
+  ],
+  "511015030": [
+   "description",
+   "num = [5, 10, 15, 20, 25]\nprint(num)"
+  ],
+  "511015050": [
+   "description",
+   "num = [5, 10, 15, 20, 25]\nprint(len(num))"
+  ]
+ },
+ "511016": {
+  "511016010": [
+   "choice",
+   5110160101
+  ],
+  "511016020": [
+   "choice",
+   5110160201
+  ],
+  "511016040": [
+   "choice",
+   5110160401
+  ],
+  "511016050": [
+   "choice",
+   5110160501
+  ],
+  "511016030": [
+   "description",
+   "import array\n\nround_array = array.array('i', [1, 2, 3, 4, 5])\nprint(round_array[1])\nprint(round_array[4])"
+  ]
+ },
+ "511017": {
+  "511017010": [
+   "choice",
+   5110170101
+  ],
+  "511017030": [
+   "choice",
+   5110170301
+  ],
+  "511017040": [
+   "choice",
+   5110170401
+  ],
+  "511017050": [
+   "choice",
+   5110170501
+  ],
+  "511017060": [
+   "choice",
+   5110170601
+  ],
+  "511017020": [
+   "description",
+   "num = [5, 10, 15, 20, 25]\nprint(num)"
+  ]
+ },
+ "511018": {
+  "511018010": [
+   "choice",
+   5110180101
+  ],
+  "511018020": [
+   "choice",
+   5110180201
+  ],
+  "511018030": [
+   "choice",
+   5110180301
+  ],
+  "511018040": [
+   "choice",
+   5110180401
+  ],
+  "511018050": [
+   "choice",
+   5110180501
+  ]
+ },
+ "511019": {
+  "511019010": [
+   "choice",
+   5110190101
+  ],
+  "511019020": [
+   "choice",
+   5110190201
+  ],
+  "511019030": [
+   "choice",
+   5110190301
+  ],
+  "511019040": [
+   "description",
+   "import math\nimport random\nprint(math.floor(random.random() * 10))"
+  ],
+  "511019050": [
+   "description",
+   "import random\nif random.random() >= 0.7:\n    print(\"Grand prize!\")\nelse:\n    print(\"Consolation prize\")"
+  ]
+ },
+ "511020": {
+  "511020010": [
+   "choice",
+   5110200101
+  ],
+  "511020020": [
+   "choice",
+   5110200201
+  ],
+  "511020030": [
+   "choice",
+   5110200301
+  ],
+  "511020040": [
+   "choice",
+   5110200401
+  ],
+  "511020050": [
+   "description",
+   "import math\nimport random\nprint(math.floor(random.random() * 10))"
+  ],
+  "511020060": [
+   "description",
+   "import random\nif random.random() >= 0.7:\n    print(\"Grand prize!\")\nelse:\n    print(\"Consolation prize\")"
+  ]
+ },
+ "511021": {
+  "511021020": [
+   "choice",
+   5110210201
+  ],
+  "511021050": [
+   "choice",
+   5110210501
+  ],
+  "511021060": [
+   "choice",
+   5110210601
+  ],
+  "511021070": [
+   "choice",
+   5110210701
+  ],
+  "511021090": [
+   "choice",
+   5110210901
+  ],
+  "511021010": [
+   "description",
+   "A = 5\nB = 10\nif A > B:\n    print(\"A is bigger\")\nelif A < B:\n    print(\"B is bigger\")"
+  ],
+  "511021030": [
+   "description",
+   "math = 100\nenglish = 100\nif math == 100:\n    print(\"Math is 100 points\")\nif english == 100:\n    print(\"Math and English are 100 points\")"
+  ],
+  "511021040": [
+   "description",
+   "for i in range(7):\n    print(\"Good morning\")"
+  ],
+  "511021080": [
+   "description",
+   "def divide3(num):\n    result = num / 3\n    return result\nprint(divide3(12345))"
+  ],
+  "511021100": [
+   "description",
+   "def mul(num1, num2):\n    result = num1 * num2\n    return result\nprint(mul(9, 7))"
+  ]
+ },
+ "511022": {
+  "511022020": [
+   "choice",
+   5110220201
+  ],
+  "511022010": [
+   "description",
+   "num = 1\nfor i in range(5):\n    num = num * 7\nprint(num)"
+  ],
+  "511022030": [
+   "description",
+   "num = 5040\nfor i in range(1, 6):\n    num = num / i\nprint(num)"
+  ],
+  "511022040": [
+   "description",
+   "mark_list = [48, 55, 74, 85, 63, 57, 91]\nprint(mark_list[5])"
+  ],
+  "511022050": [
+   "description",
+   "mark_list = [48, 55, 74, 85, 63, 57, 91]\nprint(len(mark_list))"
+  ],
+  "511022060": [
+   "description",
+   "mark_list = [48, 55, 74, 85, 63, 57, 91]\nfor i in range(len(mark_list)):\n    if mark_list[i] >= 85:\n        print(\"85 or above\")"
+  ]
+ },
+ "511023": {
+  "511023010": [
+   "choice",
+   5110230101
+  ],
+  "511023020": [
+   "choice",
+   5110230201
+  ],
+  "511023030": [
+   "choice",
+   5110230301
+  ],
+  "511023040": [
+   "description",
+   "point_list = [2, 5, 8, 11]\nfor point in point_list:\n    print(point)"
+  ],
+  "511023050": [
+   "description",
+   "word_list = [\"Good morning\", \"Good night\", \"Hello\"]\nfor word in word_list:\n    print(word)"
+  ]
+ },
+ "511024": {
+  "511024010": [
+   "choice",
+   5110240101
+  ],
+  "511024040": [
+   "choice",
+   5110240401
+  ],
+  "511024050": [
+   "choice",
+   5110240501
+  ],
+  "511024020": [
+   "description",
+   "point_list = [2, 5, 8, 11]\nfor point in point_list:\n    print(point)"
+  ],
+  "511024030": [
+   "description",
+   "word_list = [\"good morning\", \"good night\", \"hello\"]\nfor word in word_list:\n    print(word)"
+  ],
+  "511024060": [
+   "description",
+   "weather = \"rainy\"\ntime = \"morning\"\nif weather == \"rainy\":\n    if time == \"morning\":\n        print(\"Let's go to the movie theater\")\n    elif time == \"noon\":\n        print(\"Let's go to the library\")\n    else:\n        print(\"Let's stay home\")\nelse:\n    print(\"Let's go for a walk\")"
+  ]
+ },
+ "511025": {
+  "511025010": [
+   "choice",
+   5110250101
+  ],
+  "511025040": [
+   "choice",
+   5110250401
+  ],
+  "511025050": [
+   "choice",
+   5110250501
+  ],
+  "511025070": [
+   "choice",
+   5110250701
+  ],
+  "511025020": [
+   "description",
+   "def calculation3(a, b, c):\n    result = a * b * c\n    return result\nnum1 = calculation3(5, 10, 15)\nprint(num1)"
+  ],
+  "511025030": [
+   "description",
+   "def calculation3(a, b, c):\n    result = a * b * c\n    return result\nnum1 = calculation3(5, 10, 15)\nprint(num1)\nnum2 = calculation3(4, 4, 4)\nprint(num2)"
+  ],
+  "511025060": [
+   "description",
+   "score_list = [70, 80, 66, 88, 92]\n\nfor score in score_list:\n    if score >= 80:\n        print(score)"
+  ]
+ },
+ "90001": {
+  "90001010": [
+   "choice",
+   900010101
+  ],
+  "90001050": [
+   "choice",
+   900010501
+  ],
+  "90001020": [
+   "description",
+   "console.log(\"Good morning\");"
+  ],
+  "90001030": [
+   "description",
+   "console.log(\"Programming\");"
+  ],
+  "90001040": [
+   "description",
+   "console.log(\"Hello\");"
+  ],
+  "90001060": [
+   "description",
+   "console.log(\"Hello.\");\nconsole.log(\"My name is\");\n//console.log(\"Rick.\");\nconsole.log(\"Cody.\");"
+  ]
+ },
+ "90002": {
+  "90002010": [
+   "choice",
+   900020101
+  ],
+  "90002020": [
+   "choice",
+   900020201
+  ],
+  "90002060": [
+   "choice",
+   900020601
+  ],
+  "90002030": [
+   "description",
+   "console.log(19 + 40);"
+  ],
+  "90002040": [
+   "description",
+   "console.log(7 - 2);"
+  ],
+  "90002050": [
+   "description",
+   "console.log(15 / 5);"
+  ],
+  "90002070": [
+   "description",
+   "console.log(\"The answer is \" + (2 * 5) + \".\");"
+  ]
+ },
+ "90003": {
+  "90003010": [
+   "choice",
+   900030101
+  ],
+  "90003020": [
+   "choice",
+   900030201
+  ],
+  "90003030": [
+   "description",
+   "let number;"
+  ],
+  "90003040": [
+   "description",
+   "let number;\nnumber = 100;"
+  ],
+  "90003050": [
+   "description",
+   "let number;\nnumber = 10;\nconsole.log(number);"
+  ],
+  "90003060": [
+   "description",
+   "let number;\nnumber = 3;\nnumber = number + 10;\nconsole.log(number);"
+  ]
+ },
+ "90004": {
+  "90004010": [
+   "choice",
+   900040101
+  ],
+  "90004040": [
+   "choice",
+   900040401
+  ],
+  "90004050": [
+   "choice",
+   900040501
+  ],
+  "90004070": [
+   "choice",
+   900040701
+  ],
+  "90004020": [
+   "description",
+   "console.log(\"Hello\");"
+  ],
+  "90004030": [
+   "description",
+   "//Leave this text.\nconsole.log(\"Make the first line a comment.\");"
+  ],
+  "90004060": [
+   "description",
+   "console.log(\"The answer is \" + (3 * 5) + \".\");"
+  ],
+  "90004080": [
+   "description",
+   "let num;\nnum = 5;\nconsole.log(num);"
+  ]
+ },
+ "90005": {
+  "90005020": [
+   "choice",
+   900050201
+  ],
+  "90005030": [
+   "choice",
+   900050301
+  ],
+  "90005050": [
+   "choice",
+   900050501
+  ],
+  "90005010": [
+   "description",
+   "let num = 5;\nconsole.log(num);"
+  ],
+  "90005040": [
+   "description",
+   "let num = 100;\nif (num == 100){console.log(\"Correct\");}"
+  ]
+ },
+ "90006": {
+  "90006010": [
+   "choice",
+   900060101
+  ],
+  "90006030": [
+   "choice",
+   900060301
+  ],
+  "90006040": [
+   "choice",
+   900060401
+  ],
+  "90006020": [
+   "description",
+   "let num = 5;\nif (num == 10){console.log(\"Win\");}\nelse {console.log(\"Lose\");}"
+  ],
+  "90006050": [
+   "description",
+   "let score = 80;\nif (score >= 60){console.log(\"Pass\");}\nelse {console.log(\"Fail\");}"
+  ]
+ },
+ "90007": {
+  "90007010": [
+   "choice",
+   900070101
+  ],
+  "90007040": [
+   "choice",
+   900070401
+  ],
+  "90007020": [
+   "description",
+   "let num = 2;\nif (num == 1){console.log(\"One\");}\nelse if (num == 2){console.log(\"Two\");}"
+  ],
+  "90007030": [
+   "description",
+   "let score = 82;\nif (score == 100){console.log(\"Perfect score\");}\nelse if(score >= 80){console.log(\"Pass\");}"
+  ],
+  "90007050": [
+   "description",
+   "let egg = 5;\nif (egg == 0){console.log(\"No stock\");}\nelse if (egg <= 3){console.log(\"Low stock\");}\nelse{console.log(\"In stock\");}"
+  ]
+ },
+ "90008": {
+  "90008020": [
+   "choice",
+   900080201
+  ],
+  "90008040": [
+   "choice",
+   900080401
+  ],
+  "90008060": [
+   "choice",
+   900080601
+  ],
+  "90008010": [
+   "description",
+   "let num = 7;\nif (num == 7){console.log(\"Correct\");}"
+  ],
+  "90008030": [
+   "description",
+   "let score = 70;\nif(score >= 60){console.log(\"Pass\");}\nelse{console.log(\"Fail\");}"
+  ],
+  "90008050": [
+   "description",
+   "let num = 100;\nif (num == 100){console.log(\"correct\");}\nelse {console.log(\"miss\");}"
+  ],
+  "90008070": [
+   "description",
+   "let num = 4;\nif (num <= 3){console.log(\"A\");}\nelse if (num >= 6){console.log(\"B\");}\nelse{console.log(\"C\");}"
+  ]
+ },
+ "90009": {
+  "90009010": [
+   "choice",
+   900090101
+  ],
+  "90009020": [
+   "choice",
+   900090201
+  ],
+  "90009030": [
+   "choice",
+   900090301
+  ],
+  "90009040": [
+   "description",
+   "let a = 5;\nlet b = 10;\nif (a == 5 || b == 10){console.log(\"Condition met\");}"
+  ],
+  "90009050": [
+   "description",
+   "let a = 4;\nlet b = 3;\nif (a >= 2 && b >=3){console.log(\"Condition met\");}"
+  ]
+ },
+ "90010": {
+  "90010010": [
+   "choice",
+   900100101
+  ],
+  "90010020": [
+   "choice",
+   900100201
+  ],
+  "90010030": [
+   "choice",
+   900100301
+  ],
+  "90010040": [
+   "description",
+   "for (let i=0 ; i < 5 ; i++) {\n console.log(\"Hello\");\n}"
+  ],
+  "90010050": [
+   "description",
+   "for (let i=0 ; i < 7 ; i++) {\n console.log(\"Hello\");\n}"
+  ]
+ },
+ "90011": {
+  "90011010": [
+   "choice",
+   900110101
+  ],
+  "90011020": [
+   "choice",
+   900110201
+  ],
+  "90011030": [
+   "choice",
+   900110301
+  ],
+  "90011040": [
+   "choice",
+   900110401
+  ],
+  "90011050": [
+   "choice",
+   900110501
+  ],
+  "90011060": [
+   "description",
+   "for (let i=0 ; i < 10 ; i++) {\n console.log(\"Good morning\");\n}"
+  ],
+  "90011070": [
+   "description",
+   "let a = 4;\nlet b = 3;\nif (a >= 2 && b >=3) {\nconsole.log(\"Condition met\");\n}"
+  ],
+  "90011080": [
+   "description",
+   "for (let i=0 ; i < 3 ; i++) {\n console.log(\"Hello\");\n}"
+  ]
+ },
+ "90012": {
+  "90012010": [
+   "choice",
+   900120101
+  ],
+  "90012020": [
+   "choice",
+   900120201
+  ],
+  "90012030": [
+   "choice",
+   900120301
+  ],
+  "90012040": [
+   "choice",
+   900120401
+  ],
+  "90012050": [
+   "description",
+   "function calc(num) {\n  let result = num * 5;\n  return result;\n}\nconsole.log(calc(3));"
+  ],
+  "90012060": [
+   "description",
+   "function calc(num) {\n  let result = num * 7;\n  return result;\n}\nconsole.log(calc(10));"
+  ]
+ },
+ "90013": {
+  "90013010": [
+   "choice",
+   900130101
+  ],
+  "90013020": [
+   "choice",
+   900130201
+  ],
+  "90013030": [
+   "choice",
+   900130301
+  ],
+  "90013040": [
+   "description",
+   "console.log(Math.round(5.5));\nconsole.log(Math.floor(8.8));"
+  ],
+  "90013050": [
+   "description",
+   "if (Math.random() >= 0.5) {\n  console.log(\"Excellent luck\");\n} else {\n  console.log(\"Bad luck\");\n}"
+  ],
+  "90013060": [
+   "description",
+   "console.log(Math.floor(Math.random() * 10));"
+  ]
+ },
+ "90014": {
+  "90014010": [
+   "choice",
+   900140101
+  ],
+  "90014020": [
+   "choice",
+   900140201
+  ],
+  "90014030": [
+   "choice",
+   900140301
+  ],
+  "90014040": [
+   "choice",
+   900140401
+  ],
+  "90014060": [
+   "choice",
+   900140601
+  ],
+  "90014050": [
+   "description",
+   "console.log(Math.floor(Math.random() * 10));"
+  ],
+  "90014070": [
+   "description",
+   "function calc(num) { \n　let result = num * 7;\n　return result;\n}\nconsole.log(calc(10));"
+  ],
+  "90014080": [
+   "description",
+   "function calc(num) { \n　let result = num * 5;\n　return result;\n}\nconsole.log(calc(7));"
+  ]
+ },
+ "90015": {
+  "90015010": [
+   "choice",
+   900150101
+  ],
+  "90015020": [
+   "choice",
+   900150201
+  ],
+  "90015030": [
+   "choice",
+   900150301
+  ],
+  "90015040": [
+   "choice",
+   900150401
+  ],
+  "90015050": [
+   "description",
+   "console.log(typeof \"7\");"
+  ]
+ },
+ "90016": {
+  "90016020": [
+   "choice",
+   900160201
+  ],
+  "90016040": [
+   "choice",
+   900160401
+  ],
+  "90016010": [
+   "description",
+   "let num = [5, 10, 15];"
+  ],
+  "90016030": [
+   "description",
+   "let num = [5, 10, 15, 20, 25];\nconsole.log(num);"
+  ],
+  "90016050": [
+   "description",
+   "let num = [5, 10, 15, 20, 25];\nconsole.log(num.length);"
+  ]
+ },
+ "90017": {
+  "90017010": [
+   "choice",
+   900170101
+  ],
+  "90017020": [
+   "choice",
+   900170201
+  ],
+  "90017030": [
+   "choice",
+   900170301
+  ],
+  "90017040": [
+   "choice",
+   900170401
+  ],
+  "90017070": [
+   "choice",
+   900170701
+  ],
+  "90017090": [
+   "choice",
+   900170901
+  ],
+  "90017050": [
+   "description",
+   "console.log(typeof 100);"
+  ],
+  "90017060": [
+   "description",
+   "let num = [10, 50, 100 ,150];"
+  ],
+  "90017080": [
+   "description",
+   "let num = [2, 4, 6, 8, 10];\nconsole.log(num);"
+  ],
+  "90017100": [
+   "description",
+   "let num = [2, 4, 6, 8, 10];\nconsole.log(num.length);"
+  ]
+ },
+ "90018": {
+  "90018020": [
+   "choice",
+   900180201
+  ],
+  "90018030": [
+   "choice",
+   900180301
+  ],
+  "90018040": [
+   "choice",
+   900180401
+  ],
+  "90018050": [
+   "choice",
+   900180501
+  ],
+  "90018060": [
+   "choice",
+   900180601
+  ],
+  "90018070": [
+   "choice",
+   900180701
+  ],
+  "90018010": [
+   "description",
+   "<h1>Hello</h1>"
+  ],
+  "90018080": [
+   "description",
+   "<!--The h1 tag is a heading.-->\n<h1>Hello</h1>"
+  ]
+ },
+ "90019": {
+  "90019030": [
+   "choice",
+   900190301
+  ],
+  "90019040": [
+   "choice",
+   900190401
+  ],
+  "90019050": [
+   "choice",
+   900190501
+  ],
+  "90019060": [
+   "choice",
+   900190601
+  ],
+  "90019010": [
+   "description",
+   "h1 {\n  color: red;\n}"
+  ],
+  "90019020": [
+   "description",
+   "h1 {\n  color:blue;\n}"
+  ],
+  "90019070": [
+   "description",
+   ".dog {\n  color: blue;\n}"
+  ],
+  "90019080": [
+   "description",
+   "/*Change the text color to navy.*/\np {\n  color: navy;\n}"
+  ]
+ },
+ "90021": {
+  "90021010": [
+   "choice",
+   900210101
+  ],
+  "90021030": [
+   "choice",
+   900210301
+  ],
+  "90021040": [
+   "choice",
+   900210401
+  ],
+  "90021050": [
+   "choice",
+   900210501
+  ],
+  "90021060": [
+   "choice",
+   900210601
+  ],
+  "90021080": [
+   "choice",
+   900210801
+  ],
+  "90021020": [
+   "description",
+   "let A = 5\nlet B = 10\nif (A > B) {\n  console.log(\"A is larger\");\n} else if (A < B) {\n  console.log(\"B is larger\");\n}"
+  ],
+  "90021070": [
+   "description",
+   "let numberOfPeople = 8;\nlet weight = 400;\nif (numberOfPeople <= 10 || weight <= 800) {\n  console.log(\"You can ride the elevator\");\n}"
+  ],
+  "90021090": [
+   "description",
+   "let math = 100;\nlet science = 100;\nif (math == 100) {\n  console.log(\"Math is 100 points\");\n  if (science == 100) {\n    console.log(\"Math and science are 100 points\");\n  }\n}"
+  ]
+ },
+ "90022": {
+  "90022010": [
+   "choice",
+   900220101
+  ],
+  "90022020": [
+   "choice",
+   900220201
+  ],
+  "90022030": [
+   "choice",
+   900220301
+  ],
+  "90022060": [
+   "choice",
+   900220601
+  ],
+  "90022080": [
+   "choice",
+   900220801
+  ],
+  "90022090": [
+   "choice",
+   900220901
+  ],
+  "90022040": [
+   "description",
+   "for (let i = 0; i < 3; i++) {\n  console.log(\"Programming\");\n}"
+  ],
+  "90022050": [
+   "description",
+   "for (let i=0 ; i < 7 ; i++){\n console.log(\"Good morning\");\n}"
+  ],
+  "90022070": [
+   "description",
+   "for (let i = 0; i < 5; i++) {\n    console.log(\"sit-ups\");\n    if (i == 4) {\n        console.log(\"End\");\n    }\n}"
+  ]
+ },
+ "90023": {
+  "90023010": [
+   "choice",
+   900230101
+  ],
+  "90023020": [
+   "choice",
+   900230201
+  ],
+  "90023030": [
+   "choice",
+   900230301
+  ],
+  "90023050": [
+   "choice",
+   900230501
+  ],
+  "90023040": [
+   "description",
+   "function divide5(total) {\n    let num = total / 5;\n    return num;\n}\nconsole.log(divide5(35));"
+  ],
+  "90023060": [
+   "description",
+   "function goodNight() {\n  let greeting = \"Good night!\";\n  return greeting;\n}\nconsole.log(goodNight());"
+  ],
+  "90023070": [
+   "description",
+   "function mul(num1, num2) {\n  let answer = num1 * num2;\n  return answer;\n}\nconsole.log(mul(9, 7));"
+  ]
+ },
+ "90024": {
+  "90024020": [
+   "choice",
+   900240201
+  ],
+  "90024050": [
+   "choice",
+   900240501
+  ],
+  "90024060": [
+   "choice",
+   900240601
+  ],
+  "90024070": [
+   "choice",
+   900240701
+  ],
+  "90024090": [
+   "choice",
+   900240901
+  ],
+  "90024010": [
+   "description",
+   "let A = 5\nlet B = 10\nif (A > B) {\n  console.log(\"A is larger\");\n} else if (A < B) {\n  console.log(\"B is larger\");\n}"
+  ],
+  "90024030": [
+   "description",
+   "let science = 100;\nlet math = 100;\nif (science == 100) {\n  console.log(\"Science is 100 points\");\n  if (math == 100) {\n    console.log(\"Science and Math are 100 points\");\n  }\n}"
+  ],
+  "90024040": [
+   "description",
+   "for (let i=0 ; i < 7 ; i++){\n console.log(\"Good morning\");\n}"
+  ],
+  "90024080": [
+   "description",
+   "function divide3(num) {\n    let result = num / 3;\n    return result;\n}\nconsole.log(divide3(12345));"
+  ],
+  "90024100": [
+   "description",
+   "function mul(num1, num2) {\n    let result = num1 * num2;\n    return result;\n}\nconsole.log(mul(9, 7));"
+  ]
+ },
+ "90025": {
+  "90025010": [
+   "choice",
+   900250101
+  ],
+  "90025030": [
+   "choice",
+   900250301
+  ],
+  "90025020": [
+   "description",
+   "let num = 1;\nfor(let i = 0; i < 5; i++){\n  num = num * 7;\n}\nconsole.log(num);"
+  ],
+  "90025040": [
+   "description",
+   "let num = 0;\nfor (let i = 0; i < 6; i++) {\n  num = num + i;\n}\nconsole.log(num);"
+  ],
+  "90025050": [
+   "description",
+   "let num = 5040;\nfor(let i = 1; i <= 5; i++){\n  num = num / i;\n}\nconsole.log(num);"
+  ]
+ },
+ "90026": {
+  "90026010": [
+   "choice",
+   900260101
+  ],
+  "90026020": [
+   "description",
+   "let scoreList = [52, 60, 79, 82, 66, 59, 88];\nconsole.log(scoreList[5]);"
+  ],
+  "90026030": [
+   "description",
+   "let scoreList = [52, 60, 79, 82, 66, 59, 88];\nlet sum = 0;\nfor(let i = 0; i < 7; i++){\n  sum = sum + scoreList[i];\n}\nconsole.log(sum / 7);"
+  ],
+  "90026040": [
+   "description",
+   "let scoreList = [52, 60, 79, 82, 66, 59, 88];\nconsole.log(scoreList.length);"
+  ],
+  "90026050": [
+   "description",
+   "let scoreList = [52, 60, 79, 82, 66, 59, 88];\nfor (let i = 0; i < scoreList.length; i++) {\n  if (scoreList[i] >= 80) {\n    console.log(\"80 points or higher\");\n  }\n}"
+  ]
+ },
+ "90027": {
+  "90027020": [
+   "choice",
+   900270201
+  ],
+  "90027010": [
+   "description",
+   "let num = 1;\nfor (let i = 0; i < 3; i++) {\n  num = num * 9;\n}\nconsole.log(num);"
+  ],
+  "90027030": [
+   "description",
+   "let num = 5040;\nfor (let i = 1; i <= 5; i++) {\n  num = num / i;\n}\nconsole.log(num);"
+  ],
+  "90027040": [
+   "description",
+   "let scoreList = [52, 90, 70, 83, 63, 72, 89];\nconsole.log(scoreList[4]);"
+  ],
+  "90027050": [
+   "description",
+   "let scoreList = [52, 90, 70, 83, 63, 72, 89];\nconsole.log(scoreList.length);"
+  ],
+  "90027060": [
+   "description",
+   "let scoreList = [52, 90, 70, 83, 63, 72, 89];\nfor (let i = 0; i < scoreList.length; i++) {\n  if (scoreList[i] >= 80) {\n    console.log(\"Pass\");\n  }\n}"
+  ]
+ },
+ "90028": {
+  "90028010": [
+   "choice",
+   900280101
+  ],
+  "90028020": [
+   "choice",
+   900280201
+  ],
+  "90028030": [
+   "choice",
+   900280301
+  ],
+  "90028040": [
+   "description",
+   "let numList = [2, 4, 6, 8];\nfor (let num of numList) {\n  console.log(num);\n}"
+  ],
+  "90028050": [
+   "description",
+   "let wordList = [\"Good morning\", \"Good night\", \"Hello\"];\nfor (let word of wordList) {\n  console.log(word);\n}"
+  ]
+ },
+ "90029": {
+  "90029020": [
+   "choice",
+   900290201
+  ],
+  "90029030": [
+   "choice",
+   900290301
+  ],
+  "90029010": [
+   "description",
+   "let A = 5;\nlet B = 10;\nif (A > B) {\n  console.log(\"A is bigger\");\n} else if (A < B) {\n  console.log(\"B is bigger\");\n}"
+  ],
+  "90029040": [
+   "description",
+   "let weather = \"sunny\";\nlet shop = \"OPEN\";\n\nif (weather == \"sunny\") {\n  if (shop == \"OPEN\") {\n    console.log(\"Go to the shop\");\n  }\n} else {\n  console.log(\"Staying at home\");\n}"
+  ],
+  "90029050": [
+   "description",
+   "let weather = \"rain\";\nlet time = \"morning\";\n\nif (weather == \"rain\") {\n  if (time == \"morning\") {\n    console.log(\"Let's go to the movie theater\");\n  } else if (time == \"noon\") {\n    console.log(\"Let's go to the library\");\n  } else {\n    console.log(\"Let's stay at home\");\n  }\n} else {\n  console.log(\"Let's go for a walk\");\n}"
+  ]
+ },
+ "90030": {
+  "90030010": [
+   "choice",
+   900300101
+  ],
+  "90030040": [
+   "choice",
+   900300401
+  ],
+  "90030050": [
+   "choice",
+   900300501
+  ],
+  "90030020": [
+   "description",
+   "let numList = [2, 4, 6, 8];\nfor (let num of numList) {\n  console.log(num);\n}"
+  ],
+  "90030030": [
+   "description",
+   "let wordList = [\"Good morning\", \"Good night\", \"Hello\"];\nfor (let word of wordList) {\n  console.log(word);\n}"
+  ],
+  "90030060": [
+   "description",
+   "let weather = \"rain\";\nlet time = \"morning\";\n\nif (weather == \"rain\") {\n  if (time == \"morning\") {\n    console.log(\"Let's go to the movie theater\");\n  } else if (time == \"noon\") {\n    console.log(\"Let's go to the library\");\n  } else {\n    console.log(\"Let's stay at home\");\n  }\n} else {\n  console.log(\"Let's go for a walk\");\n}"
+  ]
+ },
+ "90032": {
+  "90032010": [
+   "choice",
+   900320101
+  ],
+  "90032020": [
+   "choice",
+   900320201
+  ],
+  "90032040": [
+   "choice",
+   900320401
+  ],
+  "90032030": [
+   "description",
+   "let heightList = [154, 138, 140, 180, 170];\n\nfor (let height of heightList) {\n  if (height >= 150) {\n    console.log(height);\n  }\n}"
+  ],
+  "90032050": [
+   "description",
+   "let height = 148;\nlet age = 14;\n\nif (height >= 140) {\n  if (age >= 12) {\n    console.log(\"You can ride alone\");\n  } else {\n    console.log(\"Please ride with someone who is 18 years or older\");\n  }\n} else {\n  console.log(\"You cannot ride\");\n}"
+  ]
+ },
+ "90033": {
+  "90033010": [
+   "choice",
+   900330101
+  ],
+  "90033040": [
+   "choice",
+   900330401
+  ],
+  "90033050": [
+   "choice",
+   900330501
+  ],
+  "90033070": [
+   "choice",
+   900330701
+  ],
+  "90033020": [
+   "description",
+   "function calc3(a, b, c) {\n  let result = a * b * c;\n  return result;\n}\nlet num1 = calc3(5, 10, 15);\nconsole.log(num1);"
+  ],
+  "90033030": [
+   "description",
+   "function calc3(a, b, c) {\n  let result = a * b * c;\n  return result;\n}\nlet num1 = calc3(5, 10, 15);\nconsole.log(num1);\nlet num2 = calc3(4, 4, 4);\nconsole.log(num2);"
+  ],
+  "90033060": [
+   "description",
+   "let heightList = [154, 138, 140, 180, 170];\n\nfor (let height of heightList) {\n  if (height >= 150) {\n    console.log(height);\n  }\n}"
+  ]
+ },
+ "90034": {
+  "90034020": [
+   "choice",
+   900340201
+  ],
+  "90034030": [
+   "choice",
+   900340301
+  ],
+  "90034040": [
+   "choice",
+   900340401
+  ],
+  "90034010": [
+   "description",
+   "<p>Menu</p>\n<ul>\n    <li>Hamburger</li>\n    <li>Pizza</li>\n    <li>Sandwich</li>\n</ul>"
+  ],
+  "90034050": [
+   "description",
+   "<input type=\"button\" value=\"Submit\">"
+  ]
+ },
+ "90035": {
+  "90035010": [
+   "choice",
+   900350101
+  ],
+  "90035020": [
+   "choice",
+   900350201
+  ],
+  "90035030": [
+   "choice",
+   900350301
+  ],
+  "90035040": [
+   "choice",
+   900350401
+  ],
+  "90035050": [
+   "choice",
+   900350501
+  ]
+ },
+ "90036": {
+  "90036020": [
+   "choice",
+   900360201
+  ],
+  "90036030": [
+   "choice",
+   900360301
+  ],
+  "90036050": [
+   "choice",
+   900360501
+  ],
+  "90036060": [
+   "choice",
+   900360601
+  ],
+  "90036070": [
+   "choice",
+   900360701
+  ],
+  "90036080": [
+   "choice",
+   900360801
+  ],
+  "90036010": [
+   "description",
+   "<p>Menu</p>\n<ul>\n    <li>Hamburger</li>\n    <li>Pizza</li>\n    <li>Sandwich</li>\n</ul>"
+  ],
+  "90036040": [
+   "description",
+   "<input type=\"button\" value=\"Submit\">"
+  ]
+ },
+ "90037": {
+  "90037020": [
+   "choice",
+   900370201
+  ],
+  "90037030": [
+   "choice",
+   900370301
+  ],
+  "90037010": [
+   "description",
+   "let color = \"green\";\n\nif (color == \"red\") {\n  console.log(\"Red\");\n} else if (color == \"blue\") {\n  console.log(\"Blue\");\n} else if (color == \"green\") {\n  console.log(\"Green\");\n}"
+  ],
+  "90037040": [
+   "description",
+   "let letter = \"B\";\n\nswitch (letter) {\n  case \"A\":\n    console.log(\"Well done!\");\n    break;\n  case \"B\":\n    console.log(\"Keep up the good work\");\n    break;\n  case \"C\":\n    console.log(\"Let's try a little harder\");\n    break;\n}"
+  ],
+  "90037050": [
+   "description",
+   "let letter = \"D\";\n\nswitch (letter) {\n  case \"A\":\n    console.log(\"Well done!\");\n    break;\n  case \"B\":\n    console.log(\"Keep up the good work\");\n    break;\n  case \"C\":\n    console.log(\"Let's try a little harder\");\n    break;\n  default:\n    console.log(\"The notation is incorrect\");\n    break;\n}"
+  ]
+ },
+ "90038": {
+  "90038010": [
+   "choice",
+   900380101
+  ],
+  "90038020": [
+   "choice",
+   900380201
+  ],
+  "90038030": [
+   "description",
+   "let dayCount = 14;\n\nif (dayCount % 7 == 0) {\n  console.log(\"Let's eat a hamburger!\");\n}"
+  ],
+  "90038040": [
+   "description",
+   "let dayCount = 11;\n\nswitch (dayCount % 7) {\n  case 0:\n    console.log(\"Let's eat a hamburger!\");\n    break;\n  case 4:\n    console.log(\"Let's eat steak!\");\n    break;\n}"
+  ],
+  "90038050": [
+   "description",
+   "let number = 20;\n\nswitch (number % 3) {\n  case 0:\n    console.log(\"Group A\");\n    break;\n  case 1:\n    console.log(\"Group B\");\n    break;\n  case 2:\n    console.log(\"Group C\");\n    break;\n}"
+  ]
+ },
+ "90039": {
+  "90039010": [
+   "choice",
+   900390101
+  ],
+  "90039020": [
+   "choice",
+   900390201
+  ],
+  "90039040": [
+   "choice",
+   900390401
+  ],
+  "90039030": [
+   "description",
+   "let letter = \"B\";\n\nswitch (letter) {\n  case \"A\":\n    console.log(\"Well done!\");\n    break;\n  case \"B\":\n    console.log(\"Keep up the good work\");\n    break;\n  case \"C\":\n    console.log(\"Let's try a little harder\");\n    break;\n}"
+  ],
+  "90039050": [
+   "description",
+   "let dayCount = 14;\n\nif (dayCount % 7 == 0) {\n  console.log(\"Let's eat a hamburger!\");\n}"
+  ],
+  "90039060": [
+   "description",
+   "let number = 20;\n\nswitch (number % 3) {\n  case 0:\n    console.log(\"Group A\");\n    break;\n  case 1:\n    console.log(\"Group B\");\n    break;\n  case 2:\n    console.log(\"Group C\");\n    break;\n}"
+  ]
+ },
+ "90040": {
+  "90040010": [
+   "choice",
+   900400101
+  ],
+  "90040020": [
+   "choice",
+   900400201
+  ],
+  "90040040": [
+   "choice",
+   900400401
+  ],
+  "90040030": [
+   "description",
+   "let num;\nnum = 3;\nnum = 5;\nconsole.log(num);"
+  ],
+  "90040050": [
+   "description",
+   "const answer1 = 1023;\nconst answer2 = 1024;\n\nif (answer1 != answer2) {\n  console.log(\"Let's review once more!\");\n}"
+  ]
+ },
+ "90041": {
+  "90041020": [
+   "choice",
+   900410201
+  ],
+  "90041030": [
+   "choice",
+   900410301
+  ],
+  "90041010": [
+   "description",
+   "for (let i = 0; i < 3; i++) {\n  console.log(\"Programming\");\n}"
+  ],
+  "90041040": [
+   "description",
+   "let money = 1000;\nconst snacks = 230;\nwhile (money > snacks) {\n  money = money - snacks;\n  console.log(money);\n}"
+  ],
+  "90041050": [
+   "description",
+   "let money = 600;\nlet month = 0;\nwhile (money < 4000) {\n  month ++;\n  money += 800;\n}\nconsole.log(\"Save for \" + month + \" months\");"
+  ]
+ },
+ "90042": {
+  "90042010": [
+   "choice",
+   900420101
+  ],
+  "90042030": [
+   "choice",
+   900420301
+  ],
+  "90042040": [
+   "choice",
+   900420401
+  ],
+  "90042020": [
+   "description",
+   "let num;\nnum = 3;\nnum = 5;\nconsole.log(num);"
+  ],
+  "90042050": [
+   "description",
+   "let money = 1000;\nconst snacks = 230;\nwhile (money > snacks) {\n  money = money - snacks;\n  console.log(money);\n}"
+  ],
+  "90042060": [
+   "description",
+   "let money = 600;\nlet month = 0;\nwhile (money < 4000) {\n  month ++;\n  money += 800;\n}\nconsole.log(\"Save for \" + month + \" months\");"
+  ]
+ },
+ "90043": {
+  "90043010": [
+   "choice",
+   900430101
+  ],
+  "90043020": [
+   "choice",
+   900430201
+  ],
+  "90043030": [
+   "choice",
+   900430301
+  ],
+  "90043040": [
+   "choice",
+   900430401
+  ],
+  "90043050": [
+   "choice",
+   900430501
+  ]
+ },
+ "90044": {
+  "90044010": [
+   "choice",
+   900440101
+  ],
+  "90044020": [
+   "choice",
+   900440201
+  ],
+  "90044040": [
+   "choice",
+   900440401
+  ],
+  "90044050": [
+   "choice",
+   900440501
+  ],
+  "90044030": [
+   "description",
+   "<div class=\"mountains\">\n  <h1>World Mountains</h1>\n  <ul>\n    <li>Mount Everest</li>\n    <li>Mount McKinley</li>\n    <li>Mount Kilimanjaro</li>\n  </ul>\n</div>"
+  ]
+ },
+ "90045": {
+  "90045010": [
+   "choice",
+   900450101
+  ],
+  "90045020": [
+   "choice",
+   900450201
+  ],
+  "90045030": [
+   "choice",
+   900450301
+  ],
+  "90045040": [
+   "choice",
+   900450401
+  ],
+  "90045060": [
+   "choice",
+   900450601
+  ],
+  "90045070": [
+   "choice",
+   900450701
+  ],
+  "90045050": [
+   "description",
+   "<div class=\"mountains\">\n  <h1>Mountains of the World</h1>\n  <ul>\n    <li>Mount Everest</li>\n    <li>Mount McKinley</li>\n    <li>Mount Kilimanjaro</li>\n  </ul>\n</div>"
+  ]
+ },
+ "90046": {
+  "90046010": [
+   "choice",
+   900460101
+  ],
+  "90046030": [
+   "choice",
+   900460301
+  ],
+  "90046050": [
+   "choice",
+   900460501
+  ],
+  "90046020": [
+   "description",
+   "const numList = [2, 4, 6, 8];\nfor (const num of numList) {\n  console.log(num);\n}"
+  ],
+  "90046040": [
+   "description",
+   "for (let i = 1; i < 5; i++) {\n  if (i % 3 == 0) {\n    console.log(i);\n  }\n}"
+  ]
+ },
+ "90047": {
+  "90047030": [
+   "choice",
+   900470301
+  ],
+  "90047050": [
+   "choice",
+   900470501
+  ],
+  "90047010": [
+   "description",
+   "const weather = \"sunny\";\n\nswitch (weather) {\n  case \"sunny\":\n    console.log(\"Let's go shopping\");\n    break;\n  case \"cloudy\":\n    console.log(\"Let's go shopping\");\n    break;\n  case \"rainy\":\n    console.log(\"Let's stay home\");\n    break;\n}"
+  ],
+  "90047020": [
+   "description",
+   "const weather = \"sunny\";\n\nswitch (weather) {\n  case \"sunny\":\n  case \"cloudy\":\n    console.log(\"Let's go shopping\");\n    break;\n  case \"rainy\":\n    console.log(\"Let's stay home\");\n    break;\n}"
+  ],
+  "90047040": [
+   "description",
+   "for (let i = 1; i <= 10; i++) {\n  switch (i % 3) {\n    case 0:\n      console.log(\"Student \" + i + \" is in Group C\");\n      break;\n    case 1:\n      console.log(\"Student \" + i + \" is in Group A\");\n      break;\n    case 2:\n      console.log(\"Student \" + i + \" is in Group B\");\n      break;\n  }\n}"
+  ]
+ },
+ "90048": {
+  "90048010": [
+   "choice",
+   900480101
+  ],
+  "90048030": [
+   "choice",
+   900480301
+  ],
+  "90048040": [
+   "choice",
+   900480401
+  ],
+  "90048070": [
+   "choice",
+   900480701
+  ],
+  "90048020": [
+   "description",
+   "const numList = [2, 4, 6, 8];\nfor (const num of numList) {\n  console.log(num);\n}"
+  ],
+  "90048050": [
+   "description",
+   "const weather = \"sunny\";\n\nswitch (weather) {\n  case \"sunny\":\n    console.log(\"Let's go shopping\");\n    break;\n  case \"cloudy\":\n    console.log(\"Let's go shopping\");\n    break;\n  case \"rainy\":\n    console.log(\"Let's stay home\");\n    break;\n}"
+  ],
+  "90048060": [
+   "description",
+   "for (let i = 1; i <= 10; i++) {\n  switch (i % 3) {\n    case 0:\n      console.log(\"Student \" + i + \" is in Group C\");\n      break;\n    case 1:\n      console.log(\"Student \" + i + \" is in Group A\");\n      break;\n    case 2:\n      console.log(\"Student \" + i + \" is in Group B\");\n      break;\n  }\n}"
+  ]
+ },
+ "90049": {
+  "90049020": [
+   "choice",
+   900490201
+  ],
+  "90049040": [
+   "choice",
+   900490401
+  ],
+  "90049010": [
+   "description",
+   "let num = 0;\nlet count = 0;\n\nwhile (num < 100) {\n  num += 7;\n  count++;\n}\nconsole.log(count);"
+  ],
+  "90049030": [
+   "description",
+   "let year = 2024;\n\nwhile (year <= 2200) {\n  if (year % 4 == 0) {\n    console.log(year + \" is an Olympic year\");\n  }\n  year += 1;\n}"
+  ],
+  "90049050": [
+   "description",
+   "let a = 0;\nlet b = 0;\n\nwhile (a <= 10) {\n  if (a == 5) {\n    a = a + 1;\n    continue;\n  }\n  b = b + 1;\n  a = a + 1;\n}\nconsole.log(\"a: \"+ a +\" times\");\nconsole.log(\"b: \"+ b +\" times\");"
+  ]
+ },
+ "90050": {
+  "90050010": [
+   "choice",
+   900500101
+  ],
+  "90050020": [
+   "choice",
+   900500201
+  ],
+  "90050040": [
+   "choice",
+   900500401
+  ],
+  "90050030": [
+   "description",
+   "const scoreList = [40, 55, 67, 52, 120];\nlet sum = 0;\n\nfor (const score of scoreList) {\n  sum = sum + score;\n}\nconsole.log(sum);"
+  ],
+  "90050050": [
+   "description",
+   "const scoreList = [40, 55, 67, 52, 120];\nlet sum = 0;\nfor (const score of scoreList) {\n  sum += score;\n}\nconsole.log(sum / scoreList.length);"
+  ]
+ },
+ "90051": {
+  "90051020": [
+   "choice",
+   900510201
+  ],
+  "90051010": [
+   "description",
+   "let year = 2024;\n\nwhile (year <= 2200) {\n  if (year % 4 == 0) {\n    console.log(year + \" is an Olympic year\");\n  }\n  year += 1;\n}"
+  ],
+  "90051030": [
+   "description",
+   "let a = 0;\nlet b = 0;\n\nwhile (a <= 10) {\n  if (a == 5) {\n    a = a + 1;\n    continue;\n  }\n  b = b + 1;\n  a = a + 1;\n}\nconsole.log(\"a: \"+ a +\" times\");\nconsole.log(\"b: \"+ b +\" times\");"
+  ],
+  "90051040": [
+   "description",
+   "const scoreList = [40, 55, 67, 52, 120];\nlet sum = 0;\n\nfor (const score of scoreList) {\n  sum = sum + score;\n}\nconsole.log(sum);"
+  ],
+  "90051050": [
+   "description",
+   "const scoreList = [40, 55, 67, 52, 120];\nlet sum = 0;\nfor (const score of scoreList) {\n  sum += score;\n}\nconsole.log(sum / scoreList.length);"
+  ]
+ },
+ "90052": {
+  "90052010": [
+   "choice",
+   900520101
+  ],
+  "90052020": [
+   "choice",
+   900520201
+  ],
+  "90052030": [
+   "choice",
+   900520301
+  ],
+  "90052040": [
+   "choice",
+   900520401
+  ],
+  "90052050": [
+   "description",
+   "let guestList = [\"Johnson\", \"Smith\", \"Brown\", \"Davis\", \"Wilson\"];\n\nconsole.log(guestList.includes(\"Wilson\"));"
+  ],
+  "90052060": [
+   "description",
+   "let guestList = [\"Johnson\", \"Smith\", \"Brown\", \"Davis\", \"Wilson\"];\n\nguestList.sort();\nconsole.log(guestList);"
+  ]
+ },
+ "90053": {
+  "90053010": [
+   "choice",
+   900530101
+  ],
+  "90053020": [
+   "choice",
+   900530201
+  ],
+  "90053030": [
+   "choice",
+   900530301
+  ],
+  "90053040": [
+   "choice",
+   900530401
+  ],
+  "90053050": [
+   "description",
+   "let letterList = [\"p\", \"r\", \"o\", \"g\", \"r\", \"a\", \"m\", \"y\"];\n\nletterList.pop();\nconsole.log(letterList);"
+  ],
+  "90053060": [
+   "description",
+   "let colorList = [\"red\", \"blue\", \"yellow\"];\n\ncolorList.unshift(\"green\");\nconsole.log(colorList);"
+  ]
+ },
+ "90054": {
+  "90054010": [
+   "choice",
+   900540101
+  ],
+  "90054020": [
+   "choice",
+   900540201
+  ],
+  "90054030": [
+   "choice",
+   900540301
+  ],
+  "90054040": [
+   "choice",
+   900540401
+  ],
+  "90054050": [
+   "description",
+   "let guestList = [\"Johnson\", \"Smith\", \"Brown\", \"Davis\", \"Wilson\"];\n\nconsole.log(guestList.includes(\"Wilson\"));"
+  ],
+  "90054060": [
+   "description",
+   "let guestList = [\"Johnson\", \"Smith\", \"Brown\", \"Davis\", \"Wilson\"];\n\nguestList.sort();\nconsole.log(guestList);"
+  ],
+  "90054070": [
+   "description",
+   "let letterList = [\"p\", \"r\", \"o\", \"g\", \"r\", \"a\", \"m\", \"y\"];\n\nletterList.pop();\nconsole.log(letterList);"
+  ],
+  "90054080": [
+   "description",
+   "let colorList = [\"red\", \"blue\", \"yellow\"];\n\ncolorList.unshift(\"green\");\nconsole.log(colorList);"
+  ]
+ },
+ "90020": {
+  "90020020": [
+   "choice",
+   900200201
+  ],
+  "90020030": [
+   "choice",
+   900200301
+  ],
+  "90020040": [
+   "choice",
+   900200401
+  ],
+  "90020060": [
+   "choice",
+   900200601
+  ],
+  "90020070": [
+   "choice",
+   900200701
+  ],
+  "90020010": [
+   "description",
+   "<p>Good morning</p>"
+  ],
+  "90020050": [
+   "description",
+   "h1 {\n  color: yellow;\n}"
+  ],
+  "90020080": [
+   "description",
+   "h3 {\n  color: red;\n}"
+  ],
+  "90020090": [
+   "description",
+   ".fish {\n  color: blue;\n}"
+  ]
+ },
+ "90031": {
+  "90031020": [
+   "choice",
+   900310201
+  ],
+  "90031050": [
+   "choice",
+   900310501
+  ],
+  "90031010": [
+   "description",
+   "function calculation3(a, b, c){\n  let result = a * b * c;\n  return result;\n}\nconsole.log(calculation3(2, 3, 4));"
+  ],
+  "90031030": [
+   "description",
+   "function calculation3(a, b, c) {\n  let result = a * b * c;\n  return result;\n}\nlet num1 = calculation3(5, 10, 15);\nconsole.log(num1);"
+  ],
+  "90031040": [
+   "description",
+   "function calculation3(a, b, c) {\n  let result = a * b * c;\n  return result;\n}\nlet num1 = calculation3(5, 10, 15);\nconsole.log(num1);\nlet num2 = calculation3(4, 4, 4);\nconsole.log(num2);"
+  ]
+ },
+ "30001": {
+  "30001010": [
+   "choice",
+   300010101
+  ],
+  "30001050": [
+   "choice",
+   300010501
+  ],
+  "30001020": [
+   "description",
+   "console.log(\"Good morning\");"
+  ],
+  "30001030": [
+   "description",
+   "console.log(\"Programming\");"
+  ],
+  "30001040": [
+   "description",
+   "console.log(\"Hello\");"
+  ],
+  "30001060": [
+   "description",
+   "console.log(\"Hello.\");\nconsole.log(\"My name is\");\n//console.log(\"Rick.\");\nconsole.log(\"Cody.\");"
+  ]
+ },
+ "30002": {
+  "30002010": [
+   "choice",
+   300020101
+  ],
+  "30002020": [
+   "choice",
+   300020201
+  ],
+  "30002060": [
+   "choice",
+   300020601
+  ],
+  "30002030": [
+   "description",
+   "console.log(19 + 40);"
+  ],
+  "30002040": [
+   "description",
+   "console.log(7 - 2);"
+  ],
+  "30002050": [
+   "description",
+   "console.log(15 / 5);"
+  ],
+  "30002070": [
+   "description",
+   "console.log(\"The answer is \" + (2 * 5) + \".\");"
+  ]
+ },
+ "30003": {
+  "30003010": [
+   "choice",
+   300030101
+  ],
+  "30003020": [
+   "choice",
+   300030201
+  ],
+  "30003030": [
+   "description",
+   "let number;"
+  ],
+  "30003040": [
+   "description",
+   "let number;\nnumber = 100;"
+  ],
+  "30003050": [
+   "description",
+   "let number;\nnumber = 10;\nconsole.log(number);"
+  ],
+  "30003060": [
+   "description",
+   "let number;\nnumber = 3;\nnumber = number + 10;\nconsole.log(number);"
+  ]
+ },
+ "30004": {
+  "30004010": [
+   "choice",
+   300040101
+  ],
+  "30004040": [
+   "choice",
+   300040401
+  ],
+  "30004050": [
+   "choice",
+   300040501
+  ],
+  "30004070": [
+   "choice",
+   300040701
+  ],
+  "30004020": [
+   "description",
+   "console.log(\"Hello\");"
+  ],
+  "30004030": [
+   "description",
+   "//Leave this text.\nconsole.log(\"Make the first line a comment.\");"
+  ],
+  "30004060": [
+   "description",
+   "console.log(\"The answer is \" + (3 * 5) + \".\");"
+  ],
+  "30004080": [
+   "description",
+   "let num;\nnum = 5;\nconsole.log(num);"
+  ]
+ },
+ "30005": {
+  "30005020": [
+   "choice",
+   300050201
+  ],
+  "30005030": [
+   "choice",
+   300050301
+  ],
+  "30005050": [
+   "choice",
+   300050501
+  ],
+  "30005010": [
+   "description",
+   "let num = 5;\nconsole.log(num);"
+  ],
+  "30005040": [
+   "description",
+   "let num = 100;\nif (num == 100){console.log(\"Correct\");}"
+  ]
+ },
+ "30006": {
+  "30006010": [
+   "choice",
+   300060101
+  ],
+  "30006030": [
+   "choice",
+   300060301
+  ],
+  "30006040": [
+   "choice",
+   300060401
+  ],
+  "30006020": [
+   "description",
+   "let num = 5;\nif (num == 10){console.log(\"Win\");}\nelse {console.log(\"Lose\");}"
+  ],
+  "30006050": [
+   "description",
+   "let score = 80;\nif (score >= 60){console.log(\"Pass\");}\nelse {console.log(\"Fail\");}"
+  ]
+ },
+ "30007": {
+  "30007010": [
+   "choice",
+   300070101
+  ],
+  "30007040": [
+   "choice",
+   300070401
+  ],
+  "30007020": [
+   "description",
+   "let num = 2;\nif (num == 1){console.log(\"One\");}\nelse if (num == 2){console.log(\"Two\");}"
+  ],
+  "30007030": [
+   "description",
+   "let score = 82;\nif (score == 100){console.log(\"Perfect score\");}\nelse if(score >= 80){console.log(\"Pass\");}"
+  ],
+  "30007050": [
+   "description",
+   "let egg = 5;\nif (egg == 0){console.log(\"No stock\");}\nelse if (egg <= 3){console.log(\"Low stock\");}\nelse{console.log(\"In stock\");}"
+  ]
+ },
+ "30008": {
+  "30008020": [
+   "choice",
+   300080201
+  ],
+  "30008040": [
+   "choice",
+   300080401
+  ],
+  "30008060": [
+   "choice",
+   300080601
+  ],
+  "30008010": [
+   "description",
+   "let num = 7;\nif (num == 7){console.log(\"Correct\");}"
+  ],
+  "30008030": [
+   "description",
+   "let score = 70;\nif(score >= 60){console.log(\"Pass\");}\nelse{console.log(\"Fail\");}"
+  ],
+  "30008050": [
+   "description",
+   "let num = 100;\nif (num == 100){console.log(\"correct\");}\nelse {console.log(\"miss\");}"
+  ],
+  "30008070": [
+   "description",
+   "let num = 4;\nif (num <= 3){console.log(\"A\");}\nelse if (num >= 6){console.log(\"B\");}\nelse{console.log(\"C\");}"
+  ]
+ },
+ "30009": {
+  "30009010": [
+   "choice",
+   300090101
+  ],
+  "30009020": [
+   "choice",
+   300090201
+  ],
+  "30009030": [
+   "choice",
+   300090301
+  ],
+  "30009040": [
+   "description",
+   "let a = 5;\nlet b = 10;\nif (a == 5 || b == 10){console.log(\"Condition met\");}"
+  ],
+  "30009050": [
+   "description",
+   "let a = 4;\nlet b = 3;\nif (a >= 2 && b >=3){console.log(\"Condition met\");}"
+  ]
+ },
+ "30010": {
+  "30010010": [
+   "choice",
+   300100101
+  ],
+  "30010020": [
+   "choice",
+   300100201
+  ],
+  "30010030": [
+   "choice",
+   300100301
+  ],
+  "30010040": [
+   "description",
+   "for (let i=0 ; i < 5 ; i++) {\n console.log(\"Hello\");\n}"
+  ],
+  "30010050": [
+   "description",
+   "for (let i=0 ; i < 7 ; i++) {\n console.log(\"Hello\");\n}"
+  ]
+ },
+ "30011": {
+  "30011010": [
+   "choice",
+   300110101
+  ],
+  "30011020": [
+   "choice",
+   300110201
+  ],
+  "30011030": [
+   "choice",
+   300110301
+  ],
+  "30011040": [
+   "choice",
+   300110401
+  ],
+  "30011050": [
+   "choice",
+   300110501
+  ],
+  "30011060": [
+   "description",
+   "for (let i=0 ; i < 10 ; i++) {\n console.log(\"Good morning\");\n}"
+  ],
+  "30011070": [
+   "description",
+   "let a = 4;\nlet b = 3;\nif (a >= 2 && b >=3) {\nconsole.log(\"Condition met\");\n}"
+  ],
+  "30011080": [
+   "description",
+   "for (let i=0 ; i < 3 ; i++) {\n console.log(\"Hello\");\n}"
+  ]
+ },
+ "30012": {
+  "30012010": [
+   "choice",
+   300120101
+  ],
+  "30012020": [
+   "choice",
+   300120201
+  ],
+  "30012030": [
+   "choice",
+   300120301
+  ],
+  "30012040": [
+   "choice",
+   300120401
+  ],
+  "30012050": [
+   "description",
+   "function calc(num) { \n　let result = num * 5;\n　return result;\n}\nconsole.log(calc(3));"
+  ],
+  "30012060": [
+   "description",
+   "function calc(num) { \n　let result = num * 7;\n　return result;\n}\nconsole.log(calc(10));"
+  ]
+ },
+ "30013": {
+  "30013010": [
+   "choice",
+   300130101
+  ],
+  "30013020": [
+   "choice",
+   300130201
+  ],
+  "30013030": [
+   "choice",
+   300130301
+  ],
+  "30013040": [
+   "description",
+   "console.log(Math.round(5.5));\nconsole.log(Math.floor(8.8));"
+  ],
+  "30013050": [
+   "description",
+   "if (Math.random() >= 0.5) {\n  console.log(\"Excellent luck\");\n} else {\n  console.log(\"Bad luck\");\n}"
+  ],
+  "30013060": [
+   "description",
+   "console.log(Math.floor(Math.random() * 10));"
+  ]
+ },
+ "30014": {
+  "30014010": [
+   "choice",
+   300140101
+  ],
+  "30014020": [
+   "choice",
+   300140201
+  ],
+  "30014030": [
+   "choice",
+   300140301
+  ],
+  "30014040": [
+   "choice",
+   300140401
+  ],
+  "30014060": [
+   "choice",
+   300140601
+  ],
+  "30014050": [
+   "description",
+   "console.log(Math.floor(Math.random() * 10));"
+  ],
+  "30014070": [
+   "description",
+   "function calc(num) { \n　let result = num * 7;\n　return result;\n}\nconsole.log(calc(10));"
+  ],
+  "30014080": [
+   "description",
+   "function calc(num) { \n　let result = num * 5;\n　return result;\n}\nconsole.log(calc(7));"
+  ]
+ },
+ "30015": {
+  "30015010": [
+   "choice",
+   300150101
+  ],
+  "30015020": [
+   "choice",
+   300150201
+  ],
+  "30015030": [
+   "choice",
+   300150301
+  ],
+  "30015040": [
+   "choice",
+   300150401
+  ],
+  "30015050": [
+   "description",
+   "console.log(typeof \"7\");"
+  ]
+ },
+ "30016": {
+  "30016020": [
+   "choice",
+   300160201
+  ],
+  "30016040": [
+   "choice",
+   300160401
+  ],
+  "30016010": [
+   "description",
+   "let num = [5, 10, 15];"
+  ],
+  "30016030": [
+   "description",
+   "let num = [5, 10, 15, 20, 25];\nconsole.log(num);"
+  ],
+  "30016050": [
+   "description",
+   "let num = [5, 10, 15, 20, 25];\nconsole.log(num.length);"
+  ]
+ },
+ "30017": {
+  "30017010": [
+   "choice",
+   300170101
+  ],
+  "30017020": [
+   "choice",
+   300170201
+  ],
+  "30017030": [
+   "choice",
+   300170301
+  ],
+  "30017040": [
+   "choice",
+   300170401
+  ],
+  "30017070": [
+   "choice",
+   300170701
+  ],
+  "30017090": [
+   "choice",
+   300170901
+  ],
+  "30017050": [
+   "description",
+   "console.log(typeof 100);"
+  ],
+  "30017060": [
+   "description",
+   "let num = [10, 50, 100 ,150];"
+  ],
+  "30017080": [
+   "description",
+   "let num = [2, 4, 6, 8, 10];\nconsole.log(num);"
+  ],
+  "30017100": [
+   "description",
+   "let num = [2, 4, 6, 8, 10];\nconsole.log(num.length);"
+  ]
+ },
+ "30018": {
+  "30018020": [
+   "choice",
+   300180201
+  ],
+  "30018030": [
+   "choice",
+   300180301
+  ],
+  "30018040": [
+   "choice",
+   300180401
+  ],
+  "30018050": [
+   "choice",
+   300180501
+  ],
+  "30018060": [
+   "choice",
+   300180601
+  ],
+  "30018070": [
+   "choice",
+   300180701
+  ],
+  "30018010": [
+   "description",
+   "<h1>Hello</h1>"
+  ],
+  "30018080": [
+   "description",
+   "<!--The h1 tag is a heading.-->\n<h1>Hello</h1>"
+  ]
+ },
+ "30019": {
+  "30019030": [
+   "choice",
+   300190301
+  ],
+  "30019040": [
+   "choice",
+   300190401
+  ],
+  "30019050": [
+   "choice",
+   300190501
+  ],
+  "30019060": [
+   "choice",
+   300190601
+  ],
+  "30019010": [
+   "description",
+   "h1 {\n  color: red;\n}"
+  ],
+  "30019020": [
+   "description",
+   "h1 {\n  color:blue;\n}"
+  ],
+  "30019070": [
+   "description",
+   ".dog {\n  color: blue;\n}"
+  ],
+  "30019080": [
+   "description",
+   "/*Change the text color to navy.*/\np {\n  color: navy;\n}"
+  ]
+ },
+ "30020": {
+  "30020020": [
+   "choice",
+   300200201
+  ],
+  "30020030": [
+   "choice",
+   300200301
+  ],
+  "30020040": [
+   "choice",
+   300200401
+  ],
+  "30020060": [
+   "choice",
+   300200601
+  ],
+  "30020070": [
+   "choice",
+   300200701
+  ],
+  "30020010": [
+   "description",
+   "<p>Good morning</p>"
+  ],
+  "30020050": [
+   "description",
+   "h1 {\n  color: yellow;\n}"
+  ],
+  "30020080": [
+   "description",
+   "h3 {\n  color: red;\n}"
+  ],
+  "30020090": [
+   "description",
+   ".fish {\n  color: blue;\n}"
+  ]
+ },
+ "30021": {
+  "30021010": [
+   "choice",
+   300210101
+  ],
+  "30021030": [
+   "choice",
+   300210301
+  ],
+  "30021040": [
+   "choice",
+   300210401
+  ],
+  "30021050": [
+   "choice",
+   300210501
+  ],
+  "30021060": [
+   "choice",
+   300210601
+  ],
+  "30021080": [
+   "choice",
+   300210801
+  ],
+  "30021020": [
+   "description",
+   "let A = 5\nlet B = 10\nif (A > B) {\n  console.log(\"A is larger\");\n} else if (A < B) {\n  console.log(\"B is larger\");\n}"
+  ],
+  "30021070": [
+   "description",
+   "let numberOfPeople = 8;\nlet weight = 400;\nif (numberOfPeople <= 10 || weight <= 800) {\n  console.log(\"You can ride the elevator\");\n}"
+  ],
+  "30021090": [
+   "description",
+   "let math = 100;\nlet science = 100;\nif (math == 100) {\n  console.log(\"Math is 100 points\");\n  if (science == 100) {\n    console.log(\"Math and science are 100 points\");\n  }\n}"
+  ]
+ },
+ "30022": {
+  "30022010": [
+   "choice",
+   300220101
+  ],
+  "30022020": [
+   "choice",
+   300220201
+  ],
+  "30022030": [
+   "choice",
+   300220301
+  ],
+  "30022060": [
+   "choice",
+   300220601
+  ],
+  "30022080": [
+   "choice",
+   300220801
+  ],
+  "30022090": [
+   "choice",
+   300220901
+  ],
+  "30022040": [
+   "description",
+   "for (let i = 0; i < 3; i++) {\n  console.log(\"Programming\");\n}"
+  ],
+  "30022050": [
+   "description",
+   "for (let i=0 ; i < 7 ; i++){\n console.log(\"Good morning\");\n}"
+  ],
+  "30022070": [
+   "description",
+   "for (let i = 0; i < 5; i++) {\n    console.log(\"sit-ups\");\n    if (i == 4) {\n        console.log(\"End\");\n    }\n}"
+  ]
+ },
+ "30023": {
+  "30023010": [
+   "choice",
+   300230101
+  ],
+  "30023020": [
+   "choice",
+   300230201
+  ],
+  "30023030": [
+   "choice",
+   300230301
+  ],
+  "30023050": [
+   "choice",
+   300230501
+  ],
+  "30023040": [
+   "description",
+   "function divide5(total) {\n    let num = total / 5;\n    return num;\n}\nconsole.log(divide5(35));"
+  ],
+  "30023060": [
+   "description",
+   "function goodNight() {\n  let greeting = \"Good night!\";\n  return greeting;\n}\nconsole.log(goodNight());"
+  ],
+  "30023070": [
+   "description",
+   "function mul(num1, num2) {\n  let answer = num1 * num2;\n  return answer;\n}\nconsole.log(mul(9, 7));"
+  ]
+ },
+ "30024": {
+  "30024020": [
+   "choice",
+   300240201
+  ],
+  "30024050": [
+   "choice",
+   300240501
+  ],
+  "30024060": [
+   "choice",
+   300240601
+  ],
+  "30024070": [
+   "choice",
+   300240701
+  ],
+  "30024090": [
+   "choice",
+   300240901
+  ],
+  "30024010": [
+   "description",
+   "let A = 5\nlet B = 10\nif (A > B) {\n  console.log(\"A is larger\");\n} else if (A < B) {\n  console.log(\"B is larger\");\n}"
+  ],
+  "30024030": [
+   "description",
+   "let science = 100;\nlet math = 100;\nif (science == 100) {\n  console.log(\"Science is 100 points\");\n  if (math == 100) {\n    console.log(\"Science and Math are 100 points\");\n  }\n}"
+  ],
+  "30024040": [
+   "description",
+   "for (let i=0 ; i < 7 ; i++){\n console.log(\"Good morning\");\n}"
+  ],
+  "30024080": [
+   "description",
+   "function divide3(num) {\n    let result = num / 3;\n    return result;\n}\nconsole.log(divide3(12345));"
+  ],
+  "30024100": [
+   "description",
+   "function mul(num1, num2) {\n    let result = num1 * num2;\n    return result;\n}\nconsole.log(mul(9, 7));"
+  ]
+ },
+ "30025": {
+  "30025010": [
+   "choice",
+   300250101
+  ],
+  "30025030": [
+   "choice",
+   300250301
+  ],
+  "30025020": [
+   "description",
+   "let num = 1;\nfor(let i = 0; i < 5; i++){\n  num = num * 7;\n}\nconsole.log(num);"
+  ],
+  "30025040": [
+   "description",
+   "let num = 0;\nfor (let i = 0; i < 6; i++) {\n  num = num + i;\n}\nconsole.log(num);"
+  ],
+  "30025050": [
+   "description",
+   "let num = 5040;\nfor(let i = 1; i <= 5; i++){\n  num = num / i;\n}\nconsole.log(num);"
+  ]
+ },
+ "30026": {
+  "30026010": [
+   "choice",
+   300260101
+  ],
+  "30026020": [
+   "description",
+   "let scoreList = [52, 60, 79, 82, 66, 59, 88];\nconsole.log(scoreList[5]);"
+  ],
+  "30026030": [
+   "description",
+   "let scoreList = [52, 60, 79, 82, 66, 59, 88];\nlet sum = 0;\nfor(let i = 0; i < 7; i++){\n  sum = sum + scoreList[i];\n}\nconsole.log(sum / 7);"
+  ],
+  "30026040": [
+   "description",
+   "let scoreList = [52, 60, 79, 82, 66, 59, 88];\nconsole.log(scoreList.length);"
+  ],
+  "30026050": [
+   "description",
+   "let scoreList = [52, 60, 79, 82, 66, 59, 88];\nfor (let i = 0; i < scoreList.length; i++) {\n  if (scoreList[i] >= 80) {\n    console.log(\"80 points or higher\");\n  }\n}"
+  ]
+ },
+ "30027": {
+  "30027020": [
+   "choice",
+   300270201
+  ],
+  "30027010": [
+   "description",
+   "let num = 1;\nfor (let i = 0; i < 3; i++) {\n  num = num * 9;\n}\nconsole.log(num);"
+  ],
+  "30027030": [
+   "description",
+   "let num = 5040;\nfor (let i = 1; i <= 5; i++) {\n  num = num / i;\n}\nconsole.log(num);"
+  ],
+  "30027040": [
+   "description",
+   "let scoreList = [52, 90, 70, 83, 63, 72, 89];\nconsole.log(scoreList[4]);"
+  ],
+  "30027050": [
+   "description",
+   "let scoreList = [52, 90, 70, 83, 63, 72, 89];\nconsole.log(scoreList.length);"
+  ],
+  "30027060": [
+   "description",
+   "let scoreList = [52, 90, 70, 83, 63, 72, 89];\nfor (let i = 0; i < scoreList.length; i++) {\n  if (scoreList[i] >= 80) {\n    console.log(\"Pass\");\n  }\n}"
+  ]
+ },
+ "30028": {
+  "30028010": [
+   "choice",
+   300280101
+  ],
+  "30028020": [
+   "choice",
+   300280201
+  ],
+  "30028030": [
+   "choice",
+   300280301
+  ],
+  "30028040": [
+   "description",
+   "let numList = [2, 4, 6, 8];\nfor (let num of numList) {\n  console.log(num);\n}"
+  ],
+  "30028050": [
+   "description",
+   "let wordList = [\"Good morning\", \"Good night\", \"Hello\"];\nfor (let word of wordList) {\n  console.log(word);\n}"
+  ]
+ },
+ "30029": {
+  "30029020": [
+   "choice",
+   300290201
+  ],
+  "30029030": [
+   "choice",
+   300290301
+  ],
+  "30029010": [
+   "description",
+   "let A = 5\nlet B = 10\nif (A > B) {\n  console.log(\"A is bigger\");\n} else if (A < B) {\n  console.log(\"B is bigger\");\n}"
+  ],
+  "30029040": [
+   "description",
+   "let weather = \"sunny\";\nlet shop = \"OPEN\";\n\nif (weather == \"sunny\") {\n  if (shop == \"OPEN\") {\n    console.log(\"Go to the store\");\n  }\n} else {\n  console.log(\"Staying at home\");\n}"
+  ],
+  "30029050": [
+   "description",
+   "let weather = \"rain\";\nlet time = \"morning\";\n\nif (weather == \"rain\") {\n  if (time == \"morning\") {\n    console.log(\"Let's go to the movie theater\");\n  } else if (time == \"noon\") {\n    console.log(\"Let's go to the library\");\n  } else {\n    console.log(\"Let's stay at home\");\n  }\n} else {\n  console.log(\"Let's go for a walk\");\n}"
+  ]
+ },
+ "30030": {
+  "30030010": [
+   "choice",
+   300300101
+  ],
+  "30030040": [
+   "choice",
+   300300401
+  ],
+  "30030050": [
+   "choice",
+   300300501
+  ],
+  "30030020": [
+   "description",
+   "let numList = [2, 4, 6, 8];\nfor (let num of numList) {\n  console.log(num);\n}"
+  ],
+  "30030030": [
+   "description",
+   "let wordList = [\"Good morning\", \"Good night\", \"Hello\"];\nfor (let word of wordList) {\n  console.log(word);\n}"
+  ],
+  "30030060": [
+   "description",
+   "let weather = \"rain\";\nlet time = \"morning\";\n\nif (weather == \"rain\") {\n  if (time == \"morning\") {\n    console.log(\"Let's go to the movie theater\");\n  } else if (time == \"noon\") {\n    console.log(\"Let's go to the library\");\n  } else {\n    console.log(\"Let's stay at home\");\n  }\n} else {\n  console.log(\"Let's go for a walk\");\n}"
+  ]
+ },
+ "30031": {
+  "30031020": [
+   "choice",
+   300310201
+  ],
+  "30031050": [
+   "choice",
+   300310501
+  ],
+  "30031010": [
+   "description",
+   "function calculation3(a, b, c){\n  let result = a * b * c;\n  return result;\n}\nconsole.log(calculation3(2, 3, 4));"
+  ],
+  "30031030": [
+   "description",
+   "function calculation3(a, b, c) {\n  let result = a * b * c;\n  return result;\n}\nlet num1 = calculation3(5, 10, 15);\nconsole.log(num1);"
+  ],
+  "30031040": [
+   "description",
+   "function calculation3(a, b, c) {\n  let result = a * b * c;\n  return result;\n}\nlet num1 = calculation3(5, 10, 15);\nconsole.log(num1);\nlet num2 = calculation3(4, 4, 4);\nconsole.log(num2);"
+  ]
+ },
+ "30032": {
+  "30032010": [
+   "choice",
+   300320101
+  ],
+  "30032020": [
+   "choice",
+   300320201
+  ],
+  "30032040": [
+   "choice",
+   300320401
+  ],
+  "30032030": [
+   "description",
+   "let heightList = [154, 138, 140, 180, 170];\n\nfor (let height of heightList) {\n  if (height >= 150) {\n    console.log(height);\n  }\n}"
+  ],
+  "30032050": [
+   "description",
+   "let height = 148;\nlet age = 14;\n\nif (height >= 140) {\n  if (age >= 12) {\n    console.log(\"You can ride alone\");\n  } else {\n    console.log(\"Please ride with someone who is 18 years or older\");\n  }\n} else {\n  console.log(\"You cannot ride\");\n}"
+  ]
+ },
+ "30033": {
+  "30033010": [
+   "choice",
+   300330101
+  ],
+  "30033040": [
+   "choice",
+   300330401
+  ],
+  "30033050": [
+   "choice",
+   300330501
+  ],
+  "30033070": [
+   "choice",
+   300330701
+  ],
+  "30033020": [
+   "description",
+   "function calc3(a, b, c) {\n  let result = a * b * c;\n  return result;\n}\nlet num1 = calc3(5, 10, 15);\nconsole.log(num1);"
+  ],
+  "30033030": [
+   "description",
+   "function calc3(a, b, c) {\n  let result = a * b * c;\n  return result;\n}\nlet num1 = calc3(5, 10, 15);\nconsole.log(num1);\nlet num2 = calc3(4, 4, 4);\nconsole.log(num2);"
+  ],
+  "30033060": [
+   "description",
+   "let heightList = [154, 138, 140, 180, 170];\n\nfor (let height of heightList) {\n  if (height >= 150) {\n    console.log(height);\n  }\n}"
+  ]
+ },
+ "30034": {
+  "30034020": [
+   "choice",
+   300340201
+  ],
+  "30034030": [
+   "choice",
+   300340301
+  ],
+  "30034040": [
+   "choice",
+   300340401
+  ],
+  "30034010": [
+   "description",
+   "<p>Menu</p>\n<ul>\n    <li>Hamburger</li>\n    <li>Pizza</li>\n    <li>Sandwich</li>\n</ul>"
+  ],
+  "30034050": [
+   "description",
+   "<input type=\"button\" value=\"Submit\">"
+  ]
+ },
+ "30035": {
+  "30035010": [
+   "choice",
+   300350101
+  ],
+  "30035020": [
+   "choice",
+   300350201
+  ],
+  "30035030": [
+   "choice",
+   300350301
+  ],
+  "30035040": [
+   "choice",
+   300350401
+  ],
+  "30035050": [
+   "choice",
+   300350501
+  ]
+ },
+ "30036": {
+  "30036020": [
+   "choice",
+   300360201
+  ],
+  "30036030": [
+   "choice",
+   300360301
+  ],
+  "30036050": [
+   "choice",
+   300360501
+  ],
+  "30036060": [
+   "choice",
+   300360601
+  ],
+  "30036070": [
+   "choice",
+   300360701
+  ],
+  "30036080": [
+   "choice",
+   300360801
+  ],
+  "30036010": [
+   "description",
+   "<p>Menu</p>\n<ul>\n    <li>Hamburger</li>\n    <li>Pizza</li>\n    <li>Sandwich</li>\n</ul>"
+  ],
+  "30036040": [
+   "description",
+   "<input type=\"button\" value=\"Submit\">"
+  ]
+ },
+ "30037": {
+  "30037020": [
+   "choice",
+   300370201
+  ],
+  "30037030": [
+   "choice",
+   300370301
+  ],
+  "30037010": [
+   "description",
+   "let color = \"green\";\n\nif (color == \"red\") {\n  console.log(\"Red\");\n} else if (color == \"blue\") {\n  console.log(\"Blue\");\n} else if (color == \"green\") {\n  console.log(\"Green\");\n}"
+  ],
+  "30037040": [
+   "description",
+   "let letter = \"B\";\n\nswitch (letter) {\n  case \"A\":\n    console.log(\"Well done!\");\n    break;\n  case \"B\":\n    console.log(\"Keep up the good work\");\n    break;\n  case \"C\":\n    console.log(\"Let's try a little harder\");\n    break;\n}"
+  ],
+  "30037050": [
+   "description",
+   "let letter = \"D\";\n\nswitch (letter) {\n  case \"A\":\n    console.log(\"Well done!\");\n    break;\n  case \"B\":\n    console.log(\"Keep up the good work\");\n    break;\n  case \"C\":\n    console.log(\"Let's try a little harder\");\n    break;\n  default:\n    console.log(\"The notation is incorrect\");\n    break;\n}"
+  ]
+ },
+ "30038": {
+  "30038010": [
+   "choice",
+   300380101
+  ],
+  "30038020": [
+   "choice",
+   300380201
+  ],
+  "30038030": [
+   "description",
+   "let dayCount = 14;\n\nif (dayCount % 7 == 0) {\n  console.log(\"Let's eat a hamburger!\");\n}"
+  ],
+  "30038040": [
+   "description",
+   "let dayCount = 11;\n\nswitch (dayCount % 7) {\n  case 0:\n    console.log(\"Let's eat a hamburger!\");\n    break;\n  case 4:\n    console.log(\"Let's eat steak!\");\n    break;\n}"
+  ],
+  "30038050": [
+   "description",
+   "let number = 20;\n\nswitch (number % 3) {\n  case 0:\n    console.log(\"Group A\");\n    break;\n  case 1:\n    console.log(\"Group B\");\n    break;\n  case 2:\n    console.log(\"Group C\");\n    break;\n}"
+  ]
+ },
+ "30039": {
+  "30039010": [
+   "choice",
+   300390101
+  ],
+  "30039020": [
+   "choice",
+   300390201
+  ],
+  "30039040": [
+   "choice",
+   300390401
+  ],
+  "30039030": [
+   "description",
+   "let letter = \"B\";\n\nswitch (letter) {\n  case \"A\":\n    console.log(\"Well done!\");\n    break;\n  case \"B\":\n    console.log(\"Keep up the good work\");\n    break;\n  case \"C\":\n    console.log(\"Let's try a little harder\");\n    break;\n}"
+  ],
+  "30039050": [
+   "description",
+   "let dayCount = 14;\n\nif (dayCount % 7 == 0) {\n  console.log(\"Let's eat a hamburger!\");\n}"
+  ],
+  "30039060": [
+   "description",
+   "let number = 20;\n\nswitch (number % 3) {\n  case 0:\n    console.log(\"Group A\");\n    break;\n  case 1:\n    console.log(\"Group B\");\n    break;\n  case 2:\n    console.log(\"Group C\");\n    break;\n}"
+  ]
+ },
+ "30040": {
+  "30040010": [
+   "choice",
+   300400101
+  ],
+  "30040020": [
+   "choice",
+   300400201
+  ],
+  "30040040": [
+   "choice",
+   300400401
+  ],
+  "30040030": [
+   "description",
+   "let num;\nnum = 3;\nnum = 5;\nconsole.log(num);"
+  ],
+  "30040050": [
+   "description",
+   "const answer1 = 1023;\nconst answer2 = 1024;\n\nif (answer1 != answer2) {\n  console.log(\"Let's review once more!\");\n}"
+  ]
+ },
+ "30041": {
+  "30041020": [
+   "choice",
+   300410201
+  ],
+  "30041030": [
+   "choice",
+   300410301
+  ],
+  "30041010": [
+   "description",
+   "for (let i = 0; i < 3; i++) {\n  console.log(\"Programming\");\n}"
+  ],
+  "30041040": [
+   "description",
+   "let money = 1000;\nconst snacks = 230;\nwhile (money > snacks) {\n  money = money - snacks;\n  console.log(money);\n}"
+  ],
+  "30041050": [
+   "description",
+   "let money = 600;\nlet month = 0;\nwhile (money < 4000) {\n  month ++;\n  money += 800;\n}\nconsole.log(\"Save for \" + month + \" months\");"
+  ]
+ },
+ "30042": {
+  "30042010": [
+   "choice",
+   300420101
+  ],
+  "30042030": [
+   "choice",
+   300420301
+  ],
+  "30042040": [
+   "choice",
+   300420401
+  ],
+  "30042020": [
+   "description",
+   "let num;\nnum = 3;\nnum = 5;\nconsole.log(num);"
+  ],
+  "30042050": [
+   "description",
+   "let money = 1000;\nconst snacks = 230;\nwhile (money > snacks) {\n  money = money - snacks;\n  console.log(money);\n}"
+  ],
+  "30042060": [
+   "description",
+   "let money = 600;\nlet month = 0;\nwhile (money < 4000) {\n  month ++;\n  money += 800;\n}\nconsole.log(\"Save for \" + month + \" months\");"
+  ]
+ },
+ "30043": {
+  "30043010": [
+   "choice",
+   300430101
+  ],
+  "30043020": [
+   "choice",
+   300430201
+  ],
+  "30043030": [
+   "choice",
+   300430301
+  ],
+  "30043040": [
+   "choice",
+   300430401
+  ],
+  "30043050": [
+   "choice",
+   300430501
+  ]
+ },
+ "30044": {
+  "30044010": [
+   "choice",
+   300440101
+  ],
+  "30044020": [
+   "choice",
+   300440201
+  ],
+  "30044040": [
+   "choice",
+   300440401
+  ],
+  "30044050": [
+   "choice",
+   300440501
+  ],
+  "30044030": [
+   "description",
+   "<div class=\"mountains\">\n  <h1>World Mountains</h1>\n  <ul>\n    <li>Mount Everest</li>\n    <li>Mount McKinley</li>\n    <li>Mount Kilimanjaro</li>\n  </ul>\n</div>"
+  ]
+ },
+ "30045": {
+  "30045010": [
+   "choice",
+   300450101
+  ],
+  "30045020": [
+   "choice",
+   300450201
+  ],
+  "30045030": [
+   "choice",
+   300450301
+  ],
+  "30045040": [
+   "choice",
+   300450401
+  ],
+  "30045060": [
+   "choice",
+   300450601
+  ],
+  "30045070": [
+   "choice",
+   300450701
+  ],
+  "30045050": [
+   "description",
+   "<div class=\"mountains\">\n  <h1>Mountains of the World</h1>\n  <ul>\n    <li>Mount Everest</li>\n    <li>Mount McKinley</li>\n    <li>Mount Kilimanjaro</li>\n  </ul>\n</div>"
+  ]
+ },
+ "30046": {
+  "30046010": [
+   "choice",
+   300460101
+  ],
+  "30046030": [
+   "choice",
+   300460301
+  ],
+  "30046050": [
+   "choice",
+   300460501
+  ],
+  "30046020": [
+   "description",
+   "const numList = [2, 4, 6, 8];\nfor (const num of numList) {\n  console.log(num);\n}"
+  ],
+  "30046040": [
+   "description",
+   "for (let i = 1; i < 5; i++) {\n  if (i % 3 == 0) {\n    console.log(i);\n  }\n}"
+  ]
+ },
+ "30047": {
+  "30047030": [
+   "choice",
+   300470301
+  ],
+  "30047050": [
+   "choice",
+   300470501
+  ],
+  "30047010": [
+   "description",
+   "const weather = \"sunny\";\n\nswitch (weather) {\n  case \"sunny\":\n    console.log(\"Let's go shopping\");\n    break;\n  case \"cloudy\":\n    console.log(\"Let's go shopping\");\n    break;\n  case \"rainy\":\n    console.log(\"Let's stay home\");\n    break;\n}"
+  ],
+  "30047020": [
+   "description",
+   "const weather = \"sunny\";\n\nswitch (weather) {\n  case \"sunny\":\n  case \"cloudy\":\n    console.log(\"Let's go shopping\");\n    break;\n  case \"rainy\":\n    console.log(\"Let's stay home\");\n    break;\n}"
+  ],
+  "30047040": [
+   "description",
+   "for (let i = 1; i <= 10; i++) {\n  switch (i % 3) {\n    case 0:\n      console.log(\"Student \" + i + \" is in Group C\");\n      break;\n    case 1:\n      console.log(\"Student \" + i + \" is in Group A\");\n      break;\n    case 2:\n      console.log(\"Student \" + i + \" is in Group B\");\n      break;\n  }\n}"
+  ]
+ },
+ "30048": {
+  "30048010": [
+   "choice",
+   300480101
+  ],
+  "30048030": [
+   "choice",
+   300480301
+  ],
+  "30048040": [
+   "choice",
+   300480401
+  ],
+  "30048070": [
+   "choice",
+   300480701
+  ],
+  "30048020": [
+   "description",
+   "const numList = [2, 4, 6, 8];\nfor (const num of numList) {\n  console.log(num);\n}"
+  ],
+  "30048050": [
+   "description",
+   "const weather = \"sunny\";\n\nswitch (weather) {\n  case \"sunny\":\n    console.log(\"Let's go shopping\");\n    break;\n  case \"cloudy\":\n    console.log(\"Let's go shopping\");\n    break;\n  case \"rainy\":\n    console.log(\"Let's stay home\");\n    break;\n}"
+  ],
+  "30048060": [
+   "description",
+   "for (let i = 1; i <= 10; i++) {\n  switch (i % 3) {\n    case 0:\n      console.log(\"Student \" + i + \" is in Group C\");\n      break;\n    case 1:\n      console.log(\"Student \" + i + \" is in Group A\");\n      break;\n    case 2:\n      console.log(\"Student \" + i + \" is in Group B\");\n      break;\n  }\n}"
+  ]
+ },
+ "30049": {
+  "30049020": [
+   "choice",
+   300490201
+  ],
+  "30049040": [
+   "choice",
+   300490401
+  ],
+  "30049010": [
+   "description",
+   "let num = 0;\nlet count = 0;\n\nwhile (num < 100) {\n  num += 7;\n  count++;\n}\nconsole.log(count);"
+  ],
+  "30049030": [
+   "description",
+   "let year = 2024;\n\nwhile (year <= 2200) {\n  if (year % 4 == 0) {\n    console.log(year + \" is an Olympic year\");\n  }\n  year += 1;\n}"
+  ],
+  "30049050": [
+   "description",
+   "let a = 0;\nlet b = 0;\n\nwhile (a <= 10) {\n  if (a == 5) {\n    a = a + 1;\n    continue;\n  }\n  b = b + 1;\n  a = a + 1;\n}\nconsole.log(\"a: \"+ a +\" times\");\nconsole.log(\"b: \"+ b +\" times\");"
+  ]
+ },
+ "30050": {
+  "30050010": [
+   "choice",
+   300500101
+  ],
+  "30050020": [
+   "choice",
+   300500201
+  ],
+  "30050040": [
+   "choice",
+   300500401
+  ],
+  "30050030": [
+   "description",
+   "const scoreList = [40, 55, 67, 52, 120];\nlet sum = 0;\n\nfor (const score of scoreList) {\n  sum = sum + score;\n}\nconsole.log(sum);"
+  ],
+  "30050050": [
+   "description",
+   "const scoreList = [40, 55, 67, 52, 120];\nlet sum = 0;\nfor (const score of scoreList) {\n  sum += score;\n}\nconsole.log(sum / scoreList.length);"
+  ]
+ },
+ "30051": {
+  "30051020": [
+   "choice",
+   300510201
+  ],
+  "30051010": [
+   "description",
+   "let year = 2024;\n\nwhile (year <= 2200) {\n  if (year % 4 == 0) {\n    console.log(year + \" is an Olympic year\");\n  }\n  year += 1;\n}"
+  ],
+  "30051030": [
+   "description",
+   "let a = 0;\nlet b = 0;\n\nwhile (a <= 10) {\n  if (a == 5) {\n    a = a + 1;\n    continue;\n  }\n  b = b + 1;\n  a = a + 1;\n}\nconsole.log(\"a: \"+ a +\" times\");\nconsole.log(\"b: \"+ b +\" times\");"
+  ],
+  "30051040": [
+   "description",
+   "const scoreList = [40, 55, 67, 52, 120];\nlet sum = 0;\n\nfor (const score of scoreList) {\n  sum = sum + score;\n}\nconsole.log(sum);"
+  ],
+  "30051050": [
+   "description",
+   "const scoreList = [40, 55, 67, 52, 120];\nlet sum = 0;\nfor (const score of scoreList) {\n  sum += score;\n}\nconsole.log(sum / scoreList.length);"
+  ]
+ },
+ "30052": {
+  "30052010": [
+   "choice",
+   300520101
+  ],
+  "30052020": [
+   "choice",
+   300520201
+  ],
+  "30052030": [
+   "choice",
+   300520301
+  ],
+  "30052040": [
+   "choice",
+   300520401
+  ],
+  "30052050": [
+   "description",
+   "let guestList = [\"Johnson\", \"Smith\", \"Brown\", \"Davis\", \"Wilson\"];\n\nconsole.log(guestList.includes(\"Wilson\"));"
+  ],
+  "30052060": [
+   "description",
+   "let guestList = [\"Johnson\", \"Smith\", \"Brown\", \"Davis\", \"Wilson\"];\n\nguestList.sort();\nconsole.log(guestList);"
+  ]
+ },
+ "30053": {
+  "30053010": [
+   "choice",
+   300530101
+  ],
+  "30053020": [
+   "choice",
+   300530201
+  ],
+  "30053030": [
+   "choice",
+   300530301
+  ],
+  "30053040": [
+   "choice",
+   300530401
+  ],
+  "30053050": [
+   "description",
+   "let letterList = [\"p\", \"r\", \"o\", \"g\", \"r\", \"a\", \"m\", \"y\"];\n\nletterList.pop();\nconsole.log(letterList);"
+  ],
+  "30053060": [
+   "description",
+   "let colorList = [\"red\", \"blue\", \"yellow\"];\n\ncolorList.unshift(\"green\");\nconsole.log(colorList);"
+  ]
+ },
+ "30054": {
+  "30054010": [
+   "choice",
+   300540101
+  ],
+  "30054020": [
+   "choice",
+   300540201
+  ],
+  "30054030": [
+   "choice",
+   300540301
+  ],
+  "30054040": [
+   "choice",
+   300540401
+  ],
+  "30054050": [
+   "description",
+   "let guestList = [\"Johnson\", \"Smith\", \"Brown\", \"Davis\", \"Wilson\"];\n\nconsole.log(guestList.includes(\"Wilson\"));"
+  ],
+  "30054060": [
+   "description",
+   "let guestList = [\"Johnson\", \"Smith\", \"Brown\", \"Davis\", \"Wilson\"];\n\nguestList.sort();\nconsole.log(guestList);"
+  ],
+  "30054070": [
+   "description",
+   "let letterList = [\"p\", \"r\", \"o\", \"g\", \"r\", \"a\", \"m\", \"y\"];\n\nletterList.pop();\nconsole.log(letterList);"
+  ],
+  "30054080": [
+   "description",
+   "let colorList = [\"red\", \"blue\", \"yellow\"];\n\ncolorList.unshift(\"green\");\nconsole.log(colorList);"
+  ]
+ },
+ "531002": {
+  "531002010": [
+   "choice",
+   5310020101
+  ],
+  "531002020": [
+   "choice",
+   5310020201
+  ],
+  "531002060": [
+   "choice",
+   5310020601
+  ],
+  "531002080": [
+   "choice",
+   5310020801
+  ],
+  "531002090": [
+   "choice",
+   5310020901
+  ],
+  "531002030": [
+   "description",
+   "print(19 + 40)"
+  ],
+  "531002040": [
+   "description",
+   "print(7 - 2)"
+  ],
+  "531002050": [
+   "description",
+   "print(15 / 5)"
+  ],
+  "531002070": [
+   "description",
+   "print(\"The answer is \" + str(2 * 5))"
+  ]
+ },
+ "531003": {
+  "531003010": [
+   "choice",
+   5310030101
+  ],
+  "531003020": [
+   "choice",
+   5310030201
+  ],
+  "531003030": [
+   "description",
+   "number = 0"
+  ],
+  "531003040": [
+   "description",
+   "number = 0\nnumber = 100"
+  ],
+  "531003050": [
+   "description",
+   "number = 0\nnumber = 10\nprint(number)"
+  ],
+  "531003060": [
+   "description",
+   "number = 3\nnumber = number + 10\nprint(number)"
+  ]
+ },
+ "531004": {
+  "531004010": [
+   "choice",
+   5310040101
+  ],
+  "531004040": [
+   "choice",
+   5310040401
+  ],
+  "531004050": [
+   "choice",
+   5310040501
+  ],
+  "531004070": [
+   "choice",
+   5310040701
+  ],
+  "531004020": [
+   "description",
+   "print(\"hello\")"
+  ],
+  "531004030": [
+   "description",
+   "#Leave this text\nprint(\"Make the first line a comment\")"
+  ],
+  "531004060": [
+   "description",
+   "print(\"The answer is \" + str(3 * 4))"
+  ],
+  "531004080": [
+   "description",
+   "num = 5\nprint(num)"
+  ]
+ },
+ "531005": {
+  "531005010": [
+   "choice",
+   5310050101
+  ],
+  "531005020": [
+   "choice",
+   5310050201
+  ],
+  "531005040": [
+   "choice",
+   5310050401
+  ],
+  "531005030": [
+   "description",
+   "num = 100\nif num == 100:\n    print(\"Correct\")"
+  ]
+ },
+ "531006": {
+  "531006010": [
+   "choice",
+   5310060101
+  ],
+  "531006030": [
+   "choice",
+   5310060301
+  ],
+  "531006040": [
+   "choice",
+   5310060401
+  ],
+  "531006020": [
+   "description",
+   "num = 5\nif num == 10:\n    print(\"Win\")\nelse:\n    print(\"No prize\")"
+  ],
+  "531006050": [
+   "description",
+   "score = 80\nif score >= 60:\n    print(\"Pass\")\nelse:\n    print(\"Fail\")"
+  ]
+ },
+ "531007": {
+  "531007010": [
+   "choice",
+   5310070101
+  ],
+  "531007040": [
+   "choice",
+   5310070401
+  ],
+  "531007020": [
+   "description",
+   "num = 2\nif num == 1:\n    print(\"It's 1\")\nelif num == 2:\n    print(\"It's 2\")"
+  ],
+  "531007030": [
+   "description",
+   "score = 82\nif score == 100:\n    print(\"Perfect score\")\nelif score >= 80:\n    print(\"Pass\")"
+  ],
+  "531007050": [
+   "description",
+   "egg = 5\nif egg == 0:\n    print(\"Out of stock\")\nelif egg <= 3:\n    print(\"Low stock\")\nelse:\n    print(\"In stock\")"
+  ]
+ },
+ "531008": {
+  "531008020": [
+   "choice",
+   5310080201
+  ],
+  "531008040": [
+   "choice",
+   5310080401
+  ],
+  "531008060": [
+   "choice",
+   5310080601
+  ],
+  "531008010": [
+   "description",
+   "num = 7\nif num == 7:\n    print(\"Win\")"
+  ],
+  "531008030": [
+   "description",
+   "score = 70\nif score >= 60:\n    print(\"Pass\")\nelse:\n    print(\"Fail\")"
+  ],
+  "531008050": [
+   "description",
+   "num = 100\nif num == 100:\n    print(\"Win\")\nelse:\n    print(\"No prize\")"
+  ],
+  "531008070": [
+   "description",
+   "num = 4\nif num <= 3:\n    print(\"It's A\")\nelif num >= 6:\n    print(\"It's B\")\nelse:\n    print(\"It's C\")"
+  ]
+ },
+ "531009": {
+  "531009010": [
+   "choice",
+   5310090101
+  ],
+  "531009020": [
+   "choice",
+   5310090201
+  ],
+  "531009030": [
+   "choice",
+   5310090301
+  ],
+  "531009040": [
+   "description",
+   "a = 5\nb = 10\n\nif a == 5 or b == 10:\n    print(\"The condition is met\")"
+  ],
+  "531009050": [
+   "description",
+   "a = 4\nb = 3\nif a >= 2 and b >= 3:\n    print(\"The condition is met\")"
+  ]
+ },
+ "531010": {
+  "531010010": [
+   "choice",
+   5310100101
+  ],
+  "531010020": [
+   "choice",
+   5310100201
+  ],
+  "531010030": [
+   "choice",
+   5310100301
+  ],
+  "531010040": [
+   "description",
+   "for i in range(5):\n    print(\"Hello\")"
+  ],
+  "531010050": [
+   "description",
+   "for i in range(7):\n    print(\"Hello\")"
+  ]
+ },
+ "531001": {
+  "531001010": [
+   "choice",
+   5310010101
+  ],
+  "531001050": [
+   "choice",
+   5310010501
+  ],
+  "531001020": [
+   "description",
+   "print(\"Good morning\")"
+  ],
+  "531001030": [
+   "description",
+   "print(\"programming\")"
+  ],
+  "531001040": [
+   "description",
+   "print(\"hello\")"
+  ],
+  "531001060": [
+   "description",
+   "print(\"Hello\")\nprint(\"My name is\")\n#print(\"Rick\")\nprint(\"Cody\")"
+  ]
+ }
+}

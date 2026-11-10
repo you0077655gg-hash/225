@@ -1,0 +1,407 @@
+{
+ "471165371": [
+  {
+   "date": "2026-10-09 20:22:33",
+   "gameId": 201299,
+   "days": 30,
+   "initialAssets": 500000,
+   "finalAssets": 556182.33,
+   "profit": 56182.33,
+   "totalScore": 49.66,
+   "returnScore": 19.66,
+   "diversityScore": 30.0,
+   "grade": "D",
+   "rank": 4,
+   "startCount": 2,
+   "clearCount": 2
+  },
+  {
+   "date": "2026-10-09 20:27:27",
+   "gameId": 201331,
+   "days": 30,
+   "initialAssets": 500000,
+   "finalAssets": 617157.61,
+   "profit": 117157.61,
+   "totalScore": 71.01,
+   "returnScore": 41.01,
+   "diversityScore": 30.0,
+   "grade": "B",
+   "rank": 1,
+   "startCount": 3,
+   "clearCount": 3
+  },
+  {
+   "date": "2026-10-09 20:31:06",
+   "gameId": 201343,
+   "days": 30,
+   "initialAssets": 500000,
+   "finalAssets": 734789.39,
+   "profit": 234789.39,
+   "totalScore": 100.0,
+   "returnScore": 70.0,
+   "diversityScore": 30.0,
+   "grade": "SS",
+   "rank": 1,
+   "startCount": 4,
+   "clearCount": 4
+  },
+  {
+   "date": "2026-10-09 20:35:17",
+   "gameId": 201364,
+   "days": 30,
+   "initialAssets": 500000,
+   "finalAssets": 683570.05,
+   "profit": 183570.05,
+   "totalScore": 94.25,
+   "returnScore": 64.25,
+   "diversityScore": 30.0,
+   "grade": "S",
+   "rank": 1,
+   "startCount": 6,
+   "clearCount": 6
+  },
+  {
+   "date": "2026-10-09 21:04:13",
+   "gameId": 201524,
+   "days": 30,
+   "initialAssets": 500000,
+   "finalAssets": 641340.48,
+   "profit": 141340.48,
+   "totalScore": 79.47,
+   "returnScore": 49.47,
+   "diversityScore": 30.0,
+   "grade": "B",
+   "rank": 1,
+   "startCount": 8,
+   "clearCount": 8
+  },
+  {
+   "date": "2026-10-09 21:22:52",
+   "gameId": 201617,
+   "days": 30,
+   "initialAssets": 500000,
+   "finalAssets": 784538.28,
+   "profit": 284538.28,
+   "totalScore": 100.0,
+   "returnScore": 70.0,
+   "diversityScore": 30.0,
+   "grade": "SS",
+   "rank": 1,
+   "startCount": 9,
+   "clearCount": 9
+  },
+  {
+   "date": "2026-10-09 21:28:40",
+   "gameId": 201659,
+   "days": 30,
+   "initialAssets": 500000,
+   "finalAssets": 714623.48,
+   "profit": 214623.48,
+   "totalScore": 100.0,
+   "returnScore": 70.0,
+   "diversityScore": 30.0,
+   "grade": "SS",
+   "rank": 1,
+   "startCount": 10,
+   "clearCount": 10
+  },
+  {
+   "date": "2026-10-09 21:31:10",
+   "gameId": 201672,
+   "days": 30,
+   "initialAssets": 500000,
+   "finalAssets": 868392.18,
+   "profit": 368392.18,
+   "totalScore": 100.0,
+   "returnScore": 70.0,
+   "diversityScore": 30.0,
+   "grade": "SS",
+   "rank": 1,
+   "startCount": 12,
+   "clearCount": 12
+  },
+  {
+   "date": "2026-10-09 21:39:20",
+   "gameId": 201721,
+   "days": 30,
+   "initialAssets": 500000,
+   "finalAssets": 645889.64,
+   "profit": 145889.64,
+   "totalScore": 81.06,
+   "returnScore": 51.06,
+   "diversityScore": 30.0,
+   "grade": "A",
+   "rank": 2,
+   "startCount": 14,
+   "clearCount": 14
+  }
+ ],
+ "471782352": [
+  {
+   "date": "2026-11-02 00:47:03",
+   "gameId": 351802,
+   "days": 30,
+   "initialAssets": 500000,
+   "finalAssets": 954024.21,
+   "profit": 454024.21,
+   "totalScore": 100.0,
+   "returnScore": 70.0,
+   "diversityScore": 30.0,
+   "grade": "SS",
+   "rank": 1,
+   "startCount": 8,
+   "clearCount": 8
+  },
+  {
+   "date": "2026-11-02 01:13:57",
+   "gameId": 351883,
+   "days": 30,
+   "initialAssets": 500000,
+   "finalAssets": 865195.35,
+   "profit": 365195.35,
+   "totalScore": 100.0,
+   "returnScore": 70.0,
+   "diversityScore": 30.0,
+   "grade": "SS",
+   "rank": 1,
+   "startCount": 10,
+   "clearCount": 10
+  }
+ ],
+ "471064726": [
+  {
+   "date": "2026-11-02 01:12:40",
+   "gameId": 351876,
+   "days": 30,
+   "initialAssets": 500000,
+   "finalAssets": 917002.71,
+   "profit": 417002.71,
+   "totalScore": 100.0,
+   "returnScore": 70.0,
+   "diversityScore": 30.0,
+   "grade": "SS",
+   "rank": 1,
+   "startCount": 3,
+   "clearCount": 3
+  }
+ ],
+ "463935177": [
+  {
+   "date": "2026-11-02 01:32:40",
+   "gameId": 351940,
+   "days": 30,
+   "initialAssets": 500000,
+   "finalAssets": 897611.13,
+   "profit": 397611.13,
+   "totalScore": 100.0,
+   "returnScore": 70.0,
+   "diversityScore": 30.0,
+   "grade": "SS",
+   "rank": 1,
+   "startCount": 3,
+   "clearCount": 3
+  }
+ ],
+ "478349241": [
+  {
+   "date": "2026-11-02 01:40:28",
+   "gameId": 351959,
+   "days": 30,
+   "initialAssets": 500000,
+   "finalAssets": 774186.21,
+   "profit": 274186.21,
+   "totalScore": 100.0,
+   "returnScore": 70.0,
+   "diversityScore": 30.0,
+   "grade": "SS",
+   "rank": 1,
+   "startCount": 2,
+   "clearCount": 2
+  }
+ ],
+ "471103528": [
+  {
+   "date": "2026-11-02 01:41:36",
+   "gameId": 351964,
+   "days": 30,
+   "initialAssets": 500000,
+   "finalAssets": 824007.04,
+   "profit": 324007.04,
+   "totalScore": 100.0,
+   "returnScore": 70.0,
+   "diversityScore": 30.0,
+   "grade": "SS",
+   "rank": 1,
+   "startCount": 2,
+   "clearCount": 2
+  }
+ ],
+ "471732785": [
+  {
+   "date": "2026-11-02 01:47:14",
+   "gameId": 351975,
+   "days": 30,
+   "initialAssets": 500000,
+   "finalAssets": 775153.27,
+   "profit": 275153.27,
+   "totalScore": 100.0,
+   "returnScore": 70.0,
+   "diversityScore": 30.0,
+   "grade": "SS",
+   "rank": 1,
+   "startCount": 2,
+   "clearCount": 2
+  }
+ ],
+ "472008962": [
+  {
+   "date": "2026-11-02 11:38:17",
+   "gameId": 45385,
+   "days": 30,
+   "initialAssets": 500000,
+   "finalAssets": 723431.19,
+   "profit": 223431.19,
+   "totalScore": 100.0,
+   "returnScore": 70.0,
+   "diversityScore": 30.0,
+   "grade": "SS",
+   "rank": 1,
+   "startCount": 1,
+   "clearCount": 1
+  },
+  {
+   "date": "2026-11-02 11:55:22",
+   "gameId": 353778,
+   "days": 30,
+   "initialAssets": 500000,
+   "finalAssets": 767484.88,
+   "profit": 267484.88,
+   "totalScore": 100.0,
+   "returnScore": 70.0,
+   "diversityScore": 30.0,
+   "grade": "SS",
+   "rank": 1,
+   "startCount": 3,
+   "clearCount": 3
+  }
+ ],
+ "471960244": [
+  {
+   "date": "2026-11-02 11:54:42",
+   "gameId": 353774,
+   "days": 30,
+   "initialAssets": 500000,
+   "finalAssets": 752148.6,
+   "profit": 252148.6,
+   "totalScore": 100.0,
+   "returnScore": 70.0,
+   "diversityScore": 30.0,
+   "grade": "SS",
+   "rank": 1,
+   "startCount": 4,
+   "clearCount": 4
+  }
+ ],
+ "471016973": [
+  {
+   "date": "2026-11-02 12:19:22",
+   "gameId": 353873,
+   "days": 30,
+   "initialAssets": 500000,
+   "finalAssets": 826471.2,
+   "profit": 326471.2,
+   "totalScore": 100.0,
+   "returnScore": 70.0,
+   "diversityScore": 30.0,
+   "grade": "SS",
+   "rank": 1,
+   "startCount": 1,
+   "clearCount": 1
+  }
+ ],
+ "471668445": [
+  {
+   "date": "2026-11-02 12:34:18",
+   "gameId": 306662,
+   "days": 30,
+   "initialAssets": 500000,
+   "finalAssets": 567400.58,
+   "profit": 67400.58,
+   "totalScore": 53.59,
+   "returnScore": 23.59,
+   "diversityScore": 30.0,
+   "grade": "D",
+   "rank": 4,
+   "startCount": 1,
+   "clearCount": 1
+  }
+ ],
+ "472207254": [
+  {
+   "date": "2026-11-02 12:39:37",
+   "gameId": 353969,
+   "days": 30,
+   "initialAssets": 500000,
+   "finalAssets": 959528.61,
+   "profit": 459528.61,
+   "totalScore": 100.0,
+   "returnScore": 70.0,
+   "diversityScore": 30.0,
+   "grade": "SS",
+   "rank": 1,
+   "startCount": 1,
+   "clearCount": 1
+  }
+ ],
+ "482420604": [
+  {
+   "date": "2026-11-02 13:13:22",
+   "gameId": 354162,
+   "days": 30,
+   "initialAssets": 500000,
+   "finalAssets": 1023586.45,
+   "profit": 523586.45,
+   "totalScore": 100.0,
+   "returnScore": 70.0,
+   "diversityScore": 30.0,
+   "grade": "SS",
+   "rank": 1,
+   "startCount": 1,
+   "clearCount": 1
+  }
+ ],
+ "494344747": [
+  {
+   "date": "2026-11-02 13:14:23",
+   "gameId": 354172,
+   "days": 30,
+   "initialAssets": 500000,
+   "finalAssets": 792218.53,
+   "profit": 292218.53,
+   "totalScore": 100.0,
+   "returnScore": 70.0,
+   "diversityScore": 30.0,
+   "grade": "SS",
+   "rank": 1,
+   "startCount": 6,
+   "clearCount": 6
+  }
+ ],
+ "471588075": [
+  {
+   "date": "2026-11-02 16:55:36",
+   "gameId": 355209,
+   "days": 30,
+   "initialAssets": 500000,
+   "finalAssets": 1044644.57,
+   "profit": 544644.57,
+   "totalScore": 100.0,
+   "returnScore": 70.0,
+   "diversityScore": 30.0,
+   "grade": "SS",
+   "rank": 1,
+   "startCount": 2,
+   "clearCount": 2
+  }
+ ]
+}
